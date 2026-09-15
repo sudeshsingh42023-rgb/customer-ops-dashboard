@@ -1,0 +1,1201 @@
+TicketID,Date,Weekday,Region,Channel,Category,Priority,AssignedAgent,HandleTimeMinutes,ResolutionHours,SLA_Target_Hours,SLA_Breached,Escalated,FirstContactResolution,CSAT_Score
+T100001,2025-02-27,Thursday,North,Chat,Claim Status,Low,Agent_08,15.5,30.9,48,No,No,Yes,2
+T100002,2025-02-22,Saturday,North,Chat,Billing,Low,Agent_01,10.4,53.0,48,Yes,No,Yes,1
+T100003,2025-04-30,Wednesday,North,Chat,Refund Request,High,Agent_21,15.2,9.6,8,Yes,Yes,No,1
+T100004,2025-04-23,Wednesday,West,Chat,Billing,High,Agent_25,10.2,0.5,8,No,No,Yes,3
+T100005,2025-08-05,Tuesday,East,Phone,Claim Status,Medium,Agent_25,13.3,15.7,24,No,No,Yes,3
+T100006,2025-02-17,Monday,West,Phone,Policy Change,Low,Agent_20,18.7,32.9,48,No,No,No,5
+T100007,2025-01-23,Thursday,West,Email,Technical Issue,Medium,Agent_03,31.5,16.5,24,No,No,Yes,2
+T100008,2025-07-05,Saturday,South,Chat,Billing,Low,Agent_22,6.0,28.0,48,No,No,Yes,4
+T100009,2025-05-29,Thursday,North,Portal,Billing,Low,Agent_13,12.3,33.5,48,No,No,Yes,4
+T100010,2025-07-06,Sunday,South,Email,Claim Status,Low,Agent_22,30.0,0.5,48,No,No,Yes,2
+T100011,2025-02-06,Thursday,South,Email,Claim Status,Medium,Agent_06,30.1,25.3,24,Yes,No,Yes,3
+T100012,2025-05-19,Monday,South,Chat,Billing,High,Agent_08,8.4,4.6,8,No,No,Yes,5
+T100013,2025-06-11,Wednesday,West,Phone,Claim Status,High,Agent_19,18.3,5.9,8,No,No,Yes,5
+T100014,2025-06-11,Wednesday,South,Chat,Technical Issue,Medium,Agent_21,19.9,25.3,24,Yes,No,No,4
+T100015,2025-05-16,Friday,South,Phone,Complaint,Low,Agent_18,23.1,45.1,48,No,No,No,4
+T100016,2025-08-08,Friday,West,Email,Claim Status,Medium,Agent_17,26.6,15.0,24,No,No,Yes,3
+T100017,2025-01-25,Saturday,North,Phone,Claim Status,Medium,Agent_22,8.1,22.9,24,No,No,Yes,3
+T100018,2025-02-02,Sunday,West,Email,Technical Issue,Low,Agent_17,34.8,63.1,48,Yes,No,Yes,1
+T100019,2025-01-06,Monday,North,Chat,Complaint,Low,Agent_25,15.9,40.0,48,No,No,Yes,1
+T100020,2025-06-24,Tuesday,North,Phone,Claim Status,Low,Agent_15,16.5,0.5,48,No,No,Yes,5
+T100021,2025-05-15,Thursday,South,Email,Billing,Low,Agent_21,17.9,37.3,48,No,No,Yes,3
+T100022,2025-09-17,Wednesday,South,Phone,Claim Status,Critical,Agent_18,18.5,4.7,4,Yes,No,Yes,3
+T100023,2025-01-01,Wednesday,East,Email,Billing,High,Agent_12,29.8,4.9,8,No,No,Yes,1
+T100024,2025-06-07,Saturday,South,Phone,Complaint,Low,Agent_03,18.5,27.3,48,No,No,Yes,4
+T100025,2025-09-06,Saturday,North,Portal,Complaint,Low,Agent_25,18.3,14.0,48,No,No,Yes,5
+T100026,2025-09-01,Monday,South,Phone,Complaint,Critical,Agent_14,16.5,6.8,4,Yes,Yes,Yes,1
+T100027,2025-04-13,Sunday,East,Email,Refund Request,Medium,Agent_21,26.7,15.4,24,No,No,Yes,2
+T100028,2025-09-22,Monday,West,Phone,Claim Status,Medium,Agent_03,12.2,21.2,24,No,No,Yes,2
+T100029,2025-04-28,Monday,South,Phone,Refund Request,Low,Agent_21,13.7,53.9,48,Yes,Yes,No,2
+T100030,2025-01-17,Friday,East,Phone,Claim Status,Medium,Agent_09,17.7,35.8,24,Yes,No,Yes,3
+T100031,2025-04-20,Sunday,South,Chat,Complaint,Medium,Agent_19,17.9,10.2,24,No,No,No,5
+T100032,2025-08-31,Sunday,West,Phone,Billing,Medium,Agent_22,19.0,30.2,24,Yes,No,Yes,1
+T100033,2025-08-05,Tuesday,West,Email,Refund Request,Medium,Agent_02,30.1,5.3,24,No,No,No,4
+T100034,2025-02-20,Thursday,North,Email,Policy Change,Low,Agent_04,23.2,34.9,48,No,No,Yes,1
+T100035,2025-04-08,Tuesday,West,Phone,Claim Status,Medium,Agent_09,18.1,0.5,24,No,No,Yes,1
+T100036,2025-02-08,Saturday,West,Chat,Complaint,Low,Agent_04,17.2,44.3,48,No,No,No,1
+T100037,2025-01-08,Wednesday,North,Portal,Claim Status,Medium,Agent_06,10.4,17.9,24,No,No,No,5
+T100038,2025-09-04,Thursday,South,Portal,Billing,Medium,Agent_06,16.3,24.3,24,Yes,No,Yes,2
+T100039,2025-07-19,Saturday,East,Portal,Technical Issue,Medium,Agent_10,21.6,27.0,24,Yes,No,No,1
+T100040,2025-09-07,Sunday,South,Phone,Claim Status,Medium,Agent_02,17.5,15.9,24,No,Yes,Yes,1
+T100041,2025-02-01,Saturday,East,Phone,Complaint,Medium,Agent_16,7.6,9.1,24,No,No,Yes,4
+T100042,2025-03-22,Saturday,North,Portal,Billing,Low,Agent_06,11.2,11.9,48,No,No,Yes,3
+T100043,2025-02-04,Tuesday,South,Email,Complaint,Medium,Agent_08,39.1,56.0,24,Yes,Yes,No,4
+T100044,2025-02-11,Tuesday,West,Chat,Complaint,Medium,Agent_17,23.6,16.5,24,No,No,Yes,1
+T100045,2025-05-14,Wednesday,South,Chat,Policy Change,Low,Agent_08,13.7,85.8,48,Yes,No,Yes,2
+T100046,2025-03-09,Sunday,East,Email,Billing,Medium,Agent_01,32.4,33.0,24,Yes,Yes,No,2
+T100047,2025-02-21,Friday,North,Email,Complaint,Low,Agent_09,38.0,26.9,48,No,No,No,5
+T100048,2025-06-28,Saturday,North,Portal,Policy Change,Low,Agent_10,23.4,32.2,48,No,No,No,5
+T100049,2025-06-04,Wednesday,North,Chat,Complaint,Critical,Agent_10,24.2,3.6,4,No,Yes,Yes,1
+T100050,2025-03-10,Monday,East,Phone,Billing,Medium,Agent_24,17.5,13.6,24,No,No,Yes,2
+T100051,2025-05-20,Tuesday,East,Chat,Refund Request,Low,Agent_11,14.3,11.7,48,No,No,Yes,1
+T100052,2025-05-16,Friday,West,Phone,Billing,Medium,Agent_03,14.1,9.8,24,No,No,Yes,2
+T100053,2025-05-22,Thursday,North,Phone,Claim Status,Critical,Agent_21,17.5,3.2,4,No,No,Yes,1
+T100054,2025-03-24,Monday,West,Chat,Technical Issue,Low,Agent_18,11.1,69.0,48,Yes,Yes,No,3
+T100055,2025-03-18,Tuesday,North,Chat,Complaint,Low,Agent_18,11.2,72.0,48,Yes,No,Yes,1
+T100056,2025-03-07,Friday,North,Phone,Billing,Low,Agent_12,3.1,40.5,48,No,No,Yes,4
+T100057,2025-05-08,Thursday,North,Email,Complaint,Critical,Agent_14,25.0,3.5,4,No,No,Yes,4
+T100058,2025-03-21,Friday,South,Portal,Claim Status,Low,Agent_14,15.3,60.4,48,Yes,Yes,No,1
+T100059,2025-06-20,Friday,West,Chat,Refund Request,Low,Agent_08,20.8,49.5,48,Yes,No,Yes,2
+T100060,2025-02-25,Tuesday,West,Portal,Technical Issue,Low,Agent_08,19.7,50.0,48,Yes,No,Yes,4
+T100061,2025-08-24,Sunday,East,Phone,Claim Status,Low,Agent_08,24.9,32.9,48,No,Yes,No,2
+T100062,2025-07-24,Thursday,East,Phone,Billing,Low,Agent_25,10.4,29.7,48,No,No,No,1
+T100063,2025-09-18,Thursday,West,Chat,Complaint,Critical,Agent_11,29.6,4.5,4,Yes,No,Yes,2
+T100064,2025-03-01,Saturday,East,Phone,Policy Change,Low,Agent_02,16.8,111.3,48,Yes,Yes,No,2
+T100065,2025-06-26,Thursday,East,Email,Complaint,Medium,Agent_04,33.7,4.8,24,No,No,No,5
+T100066,2025-04-08,Tuesday,East,Phone,Technical Issue,Medium,Agent_01,18.4,34.9,24,Yes,Yes,No,1
+T100067,2025-04-11,Friday,East,Email,Refund Request,Medium,Agent_11,39.7,20.8,24,No,No,No,2
+T100068,2025-03-05,Wednesday,East,Email,Refund Request,Medium,Agent_14,30.3,13.1,24,No,No,Yes,2
+T100069,2025-06-01,Sunday,South,Phone,Refund Request,Medium,Agent_13,11.8,18.8,24,No,No,No,4
+T100070,2025-03-31,Monday,East,Email,Billing,Low,Agent_10,27.2,31.5,48,No,No,Yes,5
+T100071,2025-08-09,Saturday,East,Email,Technical Issue,Low,Agent_22,30.3,14.8,48,No,Yes,No,1
+T100072,2025-03-28,Friday,North,Phone,Refund Request,Medium,Agent_21,11.2,31.9,24,Yes,No,Yes,2
+T100073,2025-02-17,Monday,South,Chat,Claim Status,Low,Agent_07,9.9,26.8,48,No,No,Yes,5
+T100074,2025-01-24,Friday,South,Portal,Complaint,Low,Agent_25,24.5,23.9,48,No,No,Yes,5
+T100075,2025-08-01,Friday,South,Chat,Technical Issue,Medium,Agent_16,20.7,22.7,24,No,No,Yes,2
+T100076,2025-03-17,Monday,North,Portal,Billing,Medium,Agent_25,17.5,2.1,24,No,No,Yes,4
+T100077,2025-04-01,Tuesday,West,Phone,Claim Status,Medium,Agent_04,23.8,12.6,24,No,No,Yes,1
+T100078,2025-08-26,Tuesday,East,Portal,Technical Issue,High,Agent_20,21.4,16.0,8,Yes,No,Yes,2
+T100079,2025-09-16,Tuesday,West,Chat,Complaint,High,Agent_15,20.6,5.2,8,No,No,No,5
+T100080,2025-09-01,Monday,West,Phone,Claim Status,Low,Agent_21,17.0,18.1,48,No,No,Yes,5
+T100081,2025-09-24,Wednesday,West,Chat,Policy Change,Low,Agent_15,18.1,73.1,48,Yes,Yes,No,1
+T100082,2025-05-01,Thursday,East,Phone,Complaint,Low,Agent_03,26.9,30.8,48,No,No,Yes,4
+T100083,2025-04-29,Tuesday,West,Chat,Refund Request,Low,Agent_07,18.4,43.1,48,No,No,No,5
+T100084,2025-07-28,Monday,East,Email,Technical Issue,Low,Agent_02,30.5,7.5,48,No,No,Yes,5
+T100085,2025-08-04,Monday,West,Portal,Complaint,Low,Agent_23,17.8,6.6,48,No,No,No,1
+T100086,2025-07-14,Monday,West,Phone,Policy Change,High,Agent_10,9.3,9.0,8,Yes,No,Yes,3
+T100087,2025-08-03,Sunday,South,Email,Policy Change,Medium,Agent_14,20.8,31.9,24,Yes,No,Yes,2
+T100088,2025-07-19,Saturday,East,Chat,Technical Issue,Low,Agent_24,14.1,5.0,48,No,No,No,5
+T100089,2025-08-28,Thursday,South,Portal,Complaint,High,Agent_01,27.8,7.9,8,No,No,Yes,1
+T100090,2025-01-14,Tuesday,North,Chat,Claim Status,Low,Agent_15,5.8,17.4,48,No,No,Yes,2
+T100091,2025-05-14,Wednesday,West,Phone,Technical Issue,Medium,Agent_11,21.1,27.1,24,Yes,Yes,No,2
+T100092,2025-05-23,Friday,West,Phone,Billing,Low,Agent_16,8.5,15.0,48,No,No,Yes,3
+T100093,2025-01-27,Monday,East,Phone,Billing,Critical,Agent_25,11.4,4.4,4,Yes,No,Yes,3
+T100094,2025-01-21,Tuesday,North,Portal,Claim Status,Medium,Agent_01,13.0,32.1,24,Yes,No,Yes,4
+T100095,2025-05-03,Saturday,South,Email,Billing,Critical,Agent_19,26.7,9.3,4,Yes,Yes,No,2
+T100096,2025-05-12,Monday,East,Phone,Complaint,High,Agent_24,18.8,6.9,8,No,Yes,No,3
+T100097,2025-06-09,Monday,North,Chat,Policy Change,Medium,Agent_19,18.7,31.0,24,Yes,No,No,1
+T100098,2025-07-12,Saturday,West,Portal,Claim Status,Medium,Agent_03,12.8,18.6,24,No,No,Yes,2
+T100099,2025-05-05,Monday,North,Chat,Policy Change,Medium,Agent_22,6.4,29.8,24,Yes,No,No,4
+T100100,2025-03-03,Monday,North,Phone,Technical Issue,Medium,Agent_22,21.1,12.1,24,No,No,No,3
+T100101,2025-09-17,Wednesday,East,Phone,Technical Issue,Low,Agent_16,27.6,39.6,48,No,No,No,1
+T100102,2025-07-05,Saturday,West,Chat,Technical Issue,High,Agent_06,13.3,3.5,8,No,No,Yes,4
+T100103,2025-05-19,Monday,West,Email,Refund Request,Low,Agent_19,33.6,12.0,48,No,No,Yes,2
+T100104,2025-05-06,Tuesday,North,Phone,Technical Issue,High,Agent_08,2.6,4.7,8,No,No,Yes,1
+T100105,2025-07-14,Monday,East,Phone,Policy Change,Medium,Agent_06,28.3,33.7,24,Yes,No,Yes,4
+T100106,2025-07-01,Tuesday,East,Phone,Complaint,High,Agent_23,29.4,8.4,8,Yes,No,Yes,3
+T100107,2025-01-06,Monday,South,Phone,Refund Request,Medium,Agent_14,17.3,19.1,24,No,No,Yes,3
+T100108,2025-05-04,Sunday,West,Chat,Technical Issue,High,Agent_15,15.7,7.9,8,No,No,No,4
+T100109,2025-02-17,Monday,East,Phone,Refund Request,Medium,Agent_08,18.1,0.5,24,No,No,Yes,2
+T100110,2025-07-08,Tuesday,West,Chat,Policy Change,Critical,Agent_14,14.9,6.5,4,Yes,Yes,Yes,1
+T100111,2025-06-19,Thursday,East,Chat,Policy Change,Low,Agent_10,7.4,56.8,48,Yes,No,Yes,2
+T100112,2025-03-03,Monday,South,Phone,Refund Request,Critical,Agent_18,18.8,2.1,4,No,Yes,Yes,1
+T100113,2025-04-05,Saturday,South,Phone,Technical Issue,High,Agent_09,20.2,9.0,8,Yes,No,No,2
+T100114,2025-09-26,Friday,East,Portal,Claim Status,Low,Agent_10,14.9,36.6,48,No,Yes,Yes,1
+T100115,2025-06-04,Wednesday,North,Chat,Claim Status,Low,Agent_09,16.9,28.1,48,No,No,Yes,3
+T100116,2025-01-28,Tuesday,East,Chat,Claim Status,High,Agent_21,9.5,6.3,8,No,No,No,5
+T100117,2025-09-09,Tuesday,North,Portal,Complaint,Medium,Agent_10,25.9,9.4,24,No,No,Yes,2
+T100118,2025-08-14,Thursday,East,Phone,Billing,Critical,Agent_09,13.0,5.4,4,Yes,No,Yes,2
+T100119,2025-09-02,Tuesday,North,Chat,Technical Issue,Low,Agent_16,21.3,14.6,48,No,No,Yes,4
+T100120,2025-01-28,Tuesday,South,Phone,Complaint,Low,Agent_10,21.4,15.3,48,No,No,Yes,1
+T100121,2025-05-08,Thursday,North,Chat,Technical Issue,Medium,Agent_20,13.1,22.3,24,No,No,No,2
+T100122,2025-04-26,Saturday,West,Email,Technical Issue,High,Agent_10,25.2,6.3,8,No,No,Yes,2
+T100123,2025-08-08,Friday,East,Chat,Billing,Critical,Agent_20,9.0,8.3,4,Yes,Yes,No,1
+T100124,2025-04-17,Thursday,South,Phone,Billing,Low,Agent_06,22.4,60.3,48,Yes,No,Yes,4
+T100125,2025-02-08,Saturday,South,Phone,Technical Issue,Medium,Agent_23,27.0,4.2,24,No,No,Yes,5
+T100126,2025-05-30,Friday,North,Phone,Refund Request,High,Agent_10,19.5,8.0,8,No,Yes,Yes,3
+T100127,2025-02-06,Thursday,South,Portal,Refund Request,Medium,Agent_19,24.0,29.1,24,Yes,Yes,No,2
+T100128,2025-08-06,Wednesday,North,Email,Refund Request,High,Agent_05,32.8,8.3,8,Yes,No,Yes,4
+T100129,2025-03-14,Friday,North,Phone,Policy Change,High,Agent_20,14.7,7.4,8,No,No,Yes,1
+T100130,2025-05-28,Wednesday,West,Phone,Refund Request,Medium,Agent_10,18.1,33.2,24,Yes,No,Yes,4
+T100131,2025-05-20,Tuesday,West,Email,Complaint,High,Agent_02,38.8,5.6,8,No,No,No,2
+T100132,2025-06-15,Sunday,East,Phone,Claim Status,High,Agent_22,26.3,0.5,8,No,No,Yes,2
+T100133,2025-01-11,Saturday,East,Chat,Claim Status,Medium,Agent_16,24.9,11.0,24,No,No,Yes,5
+T100134,2025-08-15,Friday,East,Phone,Complaint,Medium,Agent_14,23.9,11.0,24,No,No,Yes,3
+T100135,2025-09-09,Tuesday,North,Email,Technical Issue,Medium,Agent_11,33.9,32.3,24,Yes,Yes,No,2
+T100136,2025-03-24,Monday,East,Email,Technical Issue,Medium,Agent_10,30.0,35.9,24,Yes,Yes,Yes,3
+T100137,2025-01-19,Sunday,West,Phone,Policy Change,Low,Agent_11,21.3,8.8,48,No,No,Yes,2
+T100138,2025-07-26,Saturday,North,Chat,Complaint,Medium,Agent_15,25.0,12.9,24,No,No,Yes,3
+T100139,2025-04-07,Monday,East,Chat,Technical Issue,Medium,Agent_21,20.5,38.0,24,Yes,No,No,1
+T100140,2025-01-27,Monday,South,Phone,Claim Status,Medium,Agent_10,14.8,24.7,24,Yes,No,No,2
+T100141,2025-09-06,Saturday,North,Phone,Refund Request,High,Agent_20,5.6,10.2,8,Yes,No,Yes,1
+T100142,2025-03-23,Sunday,East,Chat,Complaint,Low,Agent_14,20.7,25.6,48,No,No,Yes,3
+T100143,2025-02-28,Friday,West,Portal,Refund Request,Medium,Agent_05,17.6,20.7,24,No,No,Yes,1
+T100144,2025-05-30,Friday,East,Email,Technical Issue,Low,Agent_16,33.4,24.4,48,No,No,No,1
+T100145,2025-03-16,Sunday,West,Phone,Complaint,High,Agent_17,22.4,2.6,8,No,No,Yes,4
+T100146,2025-03-11,Tuesday,North,Phone,Technical Issue,Critical,Agent_11,26.4,3.3,4,No,Yes,No,2
+T100147,2025-05-17,Saturday,North,Phone,Policy Change,Medium,Agent_19,24.7,36.0,24,Yes,No,Yes,3
+T100148,2025-09-08,Monday,South,Email,Technical Issue,Medium,Agent_12,24.1,31.2,24,Yes,No,No,3
+T100149,2025-07-13,Sunday,West,Portal,Claim Status,Low,Agent_23,17.7,25.2,48,No,No,Yes,4
+T100150,2025-07-16,Wednesday,South,Portal,Technical Issue,Medium,Agent_02,31.9,22.5,24,No,No,No,2
+T100151,2025-08-31,Sunday,West,Email,Refund Request,Critical,Agent_21,27.0,7.8,4,Yes,Yes,Yes,1
+T100152,2025-01-19,Sunday,South,Email,Complaint,High,Agent_11,34.5,13.0,8,Yes,Yes,No,2
+T100153,2025-02-21,Friday,West,Phone,Claim Status,High,Agent_14,16.3,9.1,8,Yes,No,Yes,1
+T100154,2025-03-21,Friday,North,Email,Policy Change,Medium,Agent_11,27.0,23.1,24,No,No,Yes,3
+T100155,2025-07-23,Wednesday,North,Portal,Refund Request,Medium,Agent_18,24.3,0.5,24,No,No,Yes,2
+T100156,2025-06-12,Thursday,West,Portal,Billing,Low,Agent_20,19.2,32.9,48,No,No,Yes,3
+T100157,2025-05-28,Wednesday,South,Chat,Technical Issue,High,Agent_04,15.8,4.7,8,No,No,Yes,1
+T100158,2025-02-21,Friday,West,Phone,Policy Change,Low,Agent_01,23.4,0.5,48,No,No,Yes,5
+T100159,2025-01-29,Wednesday,East,Email,Technical Issue,Low,Agent_05,35.2,33.9,48,No,No,Yes,4
+T100160,2025-07-30,Wednesday,South,Phone,Billing,High,Agent_20,5.3,6.1,8,No,No,Yes,3
+T100161,2025-05-04,Sunday,West,Portal,Claim Status,Medium,Agent_08,20.0,15.4,24,No,No,Yes,5
+T100162,2025-05-11,Sunday,West,Phone,Billing,High,Agent_15,17.4,4.3,8,No,No,Yes,3
+T100163,2025-03-22,Saturday,North,Email,Policy Change,Low,Agent_19,37.9,0.5,48,No,No,Yes,3
+T100164,2025-08-06,Wednesday,East,Email,Policy Change,Critical,Agent_07,29.3,2.2,4,No,No,No,2
+T100165,2025-09-05,Friday,North,Phone,Complaint,Medium,Agent_12,26.2,4.1,24,No,No,Yes,4
+T100166,2025-06-01,Sunday,North,Portal,Refund Request,Low,Agent_13,26.1,0.5,48,No,No,Yes,5
+T100167,2025-01-26,Sunday,West,Chat,Policy Change,High,Agent_25,6.5,8.8,8,Yes,No,No,3
+T100168,2025-06-30,Monday,South,Chat,Complaint,Medium,Agent_09,17.2,23.4,24,No,Yes,No,1
+T100169,2025-03-12,Wednesday,North,Portal,Refund Request,Medium,Agent_02,18.6,6.6,24,No,No,Yes,2
+T100170,2025-08-14,Thursday,North,Chat,Refund Request,Low,Agent_05,5.7,67.5,48,Yes,No,Yes,3
+T100171,2025-06-01,Sunday,East,Chat,Claim Status,Low,Agent_07,18.0,23.9,48,No,No,Yes,4
+T100172,2025-07-07,Monday,East,Chat,Policy Change,Critical,Agent_16,8.6,5.6,4,Yes,No,Yes,3
+T100173,2025-06-01,Sunday,East,Chat,Technical Issue,Low,Agent_03,15.2,38.5,48,No,No,No,1
+T100174,2025-04-26,Saturday,West,Portal,Complaint,Low,Agent_12,36.4,0.5,48,No,No,No,1
+T100175,2025-07-22,Tuesday,North,Phone,Billing,Medium,Agent_15,8.9,12.8,24,No,No,No,2
+T100176,2025-05-15,Thursday,West,Chat,Policy Change,Medium,Agent_04,16.5,22.8,24,No,No,No,5
+T100177,2025-08-30,Saturday,North,Chat,Complaint,High,Agent_11,19.0,15.9,8,Yes,Yes,No,1
+T100178,2025-02-02,Sunday,West,Portal,Policy Change,Medium,Agent_21,18.2,19.8,24,No,No,Yes,3
+T100179,2025-03-13,Thursday,North,Portal,Policy Change,Low,Agent_16,29.1,63.8,48,Yes,No,Yes,4
+T100180,2025-05-01,Thursday,South,Email,Policy Change,Critical,Agent_22,29.4,4.6,4,Yes,No,Yes,1
+T100181,2025-08-03,Sunday,South,Portal,Refund Request,High,Agent_04,22.6,5.2,8,No,Yes,No,1
+T100182,2025-07-28,Monday,East,Phone,Policy Change,Medium,Agent_07,22.1,15.6,24,No,No,Yes,2
+T100183,2025-05-01,Thursday,East,Phone,Refund Request,Medium,Agent_12,19.6,15.7,24,No,No,Yes,2
+T100184,2025-07-03,Thursday,North,Email,Claim Status,Critical,Agent_04,26.1,3.0,4,No,No,Yes,2
+T100185,2025-08-21,Thursday,North,Chat,Refund Request,Medium,Agent_21,11.6,38.9,24,Yes,No,Yes,1
+T100186,2025-01-11,Saturday,North,Chat,Claim Status,High,Agent_05,22.9,5.4,8,No,No,Yes,3
+T100187,2025-04-16,Wednesday,North,Chat,Complaint,Medium,Agent_07,17.5,10.5,24,No,No,No,1
+T100188,2025-04-30,Wednesday,East,Chat,Complaint,Low,Agent_01,18.6,45.5,48,No,No,Yes,3
+T100189,2025-03-16,Sunday,South,Email,Claim Status,Medium,Agent_04,33.1,22.7,24,No,No,Yes,1
+T100190,2025-01-14,Tuesday,South,Phone,Claim Status,Medium,Agent_19,17.3,23.9,24,No,No,Yes,2
+T100191,2025-03-31,Monday,East,Phone,Refund Request,Medium,Agent_14,21.1,28.9,24,Yes,Yes,No,1
+T100192,2025-02-02,Sunday,West,Email,Policy Change,Medium,Agent_17,30.0,15.3,24,No,No,Yes,4
+T100193,2025-08-20,Wednesday,South,Portal,Billing,High,Agent_24,12.7,8.4,8,Yes,No,Yes,2
+T100194,2025-09-24,Wednesday,East,Email,Billing,Critical,Agent_02,20.7,7.2,4,Yes,No,Yes,1
+T100195,2025-07-25,Friday,West,Chat,Technical Issue,High,Agent_23,15.7,6.0,8,No,No,Yes,5
+T100196,2025-02-07,Friday,North,Phone,Claim Status,Low,Agent_03,22.2,49.7,48,Yes,No,Yes,3
+T100197,2025-06-16,Monday,West,Portal,Complaint,Medium,Agent_10,25.4,27.0,24,Yes,No,No,3
+T100198,2025-08-09,Saturday,North,Chat,Billing,Medium,Agent_21,8.9,11.5,24,No,No,Yes,1
+T100199,2025-04-21,Monday,West,Email,Claim Status,Medium,Agent_14,26.8,30.8,24,Yes,No,Yes,1
+T100200,2025-08-21,Thursday,West,Email,Billing,Medium,Agent_11,23.5,9.1,24,No,No,Yes,5
+T100201,2025-05-11,Sunday,East,Portal,Refund Request,Low,Agent_16,19.8,38.1,48,No,No,Yes,4
+T100202,2025-02-13,Thursday,North,Email,Refund Request,Medium,Agent_24,32.8,2.1,24,No,No,No,3
+T100203,2025-03-08,Saturday,North,Chat,Complaint,Medium,Agent_18,18.5,17.3,24,No,No,No,5
+T100204,2025-03-04,Tuesday,West,Email,Refund Request,Medium,Agent_25,29.4,19.2,24,No,Yes,No,3
+T100205,2025-01-27,Monday,East,Chat,Policy Change,Medium,Agent_04,22.1,11.3,24,No,No,Yes,3
+T100206,2025-04-19,Saturday,South,Chat,Claim Status,Medium,Agent_04,9.5,10.0,24,No,No,Yes,5
+T100207,2025-07-08,Tuesday,North,Chat,Complaint,High,Agent_08,15.9,4.4,8,No,No,No,4
+T100208,2025-01-14,Tuesday,East,Phone,Policy Change,High,Agent_23,17.7,5.0,8,No,No,Yes,2
+T100209,2025-06-23,Monday,East,Phone,Claim Status,Medium,Agent_19,7.3,7.6,24,No,Yes,No,2
+T100210,2025-03-14,Friday,North,Phone,Complaint,Medium,Agent_07,24.8,27.5,24,Yes,Yes,No,3
+T100211,2025-06-24,Tuesday,South,Email,Refund Request,High,Agent_11,29.9,9.4,8,Yes,No,Yes,1
+T100212,2025-02-13,Thursday,North,Phone,Complaint,Medium,Agent_02,31.3,24.7,24,Yes,No,No,1
+T100213,2025-05-20,Tuesday,West,Chat,Technical Issue,Medium,Agent_20,18.2,19.7,24,No,No,No,3
+T100214,2025-05-20,Tuesday,South,Chat,Billing,Medium,Agent_12,6.7,7.7,24,No,No,No,4
+T100215,2025-05-26,Monday,West,Email,Policy Change,Low,Agent_02,37.9,73.7,48,Yes,Yes,No,1
+T100216,2025-01-29,Wednesday,North,Phone,Claim Status,Low,Agent_25,21.2,50.8,48,Yes,Yes,No,3
+T100217,2025-05-29,Thursday,East,Phone,Technical Issue,Medium,Agent_24,16.6,21.6,24,No,No,No,5
+T100218,2025-03-08,Saturday,West,Email,Claim Status,Medium,Agent_17,25.1,17.4,24,No,Yes,Yes,1
+T100219,2025-07-01,Tuesday,North,Email,Refund Request,Medium,Agent_02,23.2,24.0,24,No,No,Yes,3
+T100220,2025-08-24,Sunday,North,Portal,Complaint,Medium,Agent_14,23.0,16.6,24,No,Yes,No,1
+T100221,2025-08-02,Saturday,East,Phone,Billing,Low,Agent_11,18.0,5.9,48,No,No,Yes,4
+T100222,2025-08-24,Sunday,East,Phone,Billing,Medium,Agent_08,14.6,10.8,24,No,No,Yes,4
+T100223,2025-07-25,Friday,North,Email,Policy Change,Medium,Agent_24,31.7,10.1,24,No,No,Yes,3
+T100224,2025-06-20,Friday,South,Phone,Refund Request,Medium,Agent_04,14.1,35.1,24,Yes,No,Yes,3
+T100225,2025-04-10,Thursday,East,Email,Refund Request,Low,Agent_05,29.3,0.5,48,No,No,Yes,2
+T100226,2025-03-16,Sunday,East,Phone,Complaint,High,Agent_05,21.4,1.7,8,No,No,Yes,1
+T100227,2025-02-08,Saturday,South,Portal,Refund Request,Medium,Agent_16,22.2,12.0,24,No,No,Yes,2
+T100228,2025-08-18,Monday,East,Portal,Refund Request,Low,Agent_11,16.4,76.2,48,Yes,Yes,No,3
+T100229,2025-08-29,Friday,West,Chat,Policy Change,Low,Agent_19,5.8,22.7,48,No,No,Yes,2
+T100230,2025-09-17,Wednesday,North,Phone,Technical Issue,Low,Agent_02,13.7,61.3,48,Yes,No,Yes,3
+T100231,2025-05-27,Tuesday,North,Chat,Billing,Medium,Agent_20,10.3,14.6,24,No,No,Yes,2
+T100232,2025-07-16,Wednesday,West,Chat,Refund Request,Medium,Agent_02,17.2,29.6,24,Yes,No,Yes,3
+T100233,2025-04-07,Monday,East,Chat,Complaint,Critical,Agent_05,27.2,8.3,4,Yes,Yes,No,1
+T100234,2025-02-22,Saturday,East,Portal,Billing,Medium,Agent_17,17.2,7.2,24,No,No,Yes,3
+T100235,2025-01-21,Tuesday,South,Chat,Technical Issue,Medium,Agent_17,26.8,13.1,24,No,No,No,3
+T100236,2025-03-23,Sunday,East,Email,Policy Change,Medium,Agent_13,34.9,20.9,24,No,No,Yes,3
+T100237,2025-06-23,Monday,North,Chat,Refund Request,Low,Agent_11,12.7,25.9,48,No,No,Yes,4
+T100238,2025-02-18,Tuesday,West,Phone,Refund Request,Critical,Agent_22,19.6,9.0,4,Yes,Yes,Yes,1
+T100239,2025-03-18,Tuesday,East,Phone,Refund Request,High,Agent_05,22.1,9.4,8,Yes,Yes,No,1
+T100240,2025-07-20,Sunday,South,Chat,Billing,Medium,Agent_10,4.0,14.1,24,No,No,Yes,2
+T100241,2025-06-18,Wednesday,South,Chat,Refund Request,High,Agent_22,15.8,6.0,8,No,No,No,1
+T100242,2025-02-17,Monday,West,Email,Billing,Medium,Agent_12,34.1,20.2,24,No,No,Yes,4
+T100243,2025-04-20,Sunday,East,Portal,Technical Issue,Low,Agent_07,28.2,37.3,48,No,Yes,No,4
+T100244,2025-03-21,Friday,North,Phone,Billing,High,Agent_17,18.8,7.1,8,No,No,Yes,4
+T100245,2025-09-27,Saturday,North,Chat,Complaint,Medium,Agent_05,17.2,30.0,24,Yes,Yes,No,4
+T100246,2025-03-25,Tuesday,South,Chat,Complaint,High,Agent_06,30.8,4.2,8,No,No,Yes,5
+T100247,2025-01-23,Thursday,West,Email,Refund Request,Critical,Agent_08,32.6,1.9,4,No,No,Yes,2
+T100248,2025-05-26,Monday,West,Phone,Claim Status,Critical,Agent_10,18.5,0.8,4,No,Yes,Yes,2
+T100249,2025-04-10,Thursday,East,Chat,Complaint,Medium,Agent_15,16.5,30.1,24,Yes,Yes,No,2
+T100250,2025-07-15,Tuesday,West,Portal,Claim Status,Low,Agent_20,24.7,28.3,48,No,No,Yes,4
+T100251,2025-05-09,Friday,North,Chat,Policy Change,Critical,Agent_18,30.5,3.4,4,No,No,Yes,2
+T100252,2025-09-22,Monday,North,Phone,Claim Status,Medium,Agent_09,15.5,33.9,24,Yes,No,No,1
+T100253,2025-09-20,Saturday,South,Chat,Billing,High,Agent_08,2.6,0.6,8,No,No,No,1
+T100254,2025-06-28,Saturday,North,Email,Technical Issue,Medium,Agent_17,35.0,10.2,24,No,No,Yes,4
+T100255,2025-07-17,Thursday,North,Email,Billing,Critical,Agent_11,26.2,0.5,4,No,No,Yes,1
+T100256,2025-06-21,Saturday,South,Phone,Policy Change,Medium,Agent_16,20.7,13.2,24,No,No,Yes,1
+T100257,2025-03-13,Thursday,West,Email,Billing,Low,Agent_03,21.6,38.9,48,No,No,Yes,4
+T100258,2025-04-21,Monday,South,Email,Refund Request,Medium,Agent_20,34.0,4.8,24,No,No,Yes,4
+T100259,2025-02-26,Wednesday,East,Phone,Billing,Low,Agent_02,11.8,42.8,48,No,No,Yes,2
+T100260,2025-08-23,Saturday,North,Phone,Technical Issue,Medium,Agent_20,29.8,11.1,24,No,No,Yes,3
+T100261,2025-09-21,Sunday,South,Chat,Policy Change,Low,Agent_14,8.5,4.6,48,No,No,Yes,4
+T100262,2025-06-30,Monday,South,Chat,Claim Status,Medium,Agent_22,19.1,15.9,24,No,No,Yes,4
+T100263,2025-09-26,Friday,East,Phone,Complaint,Medium,Agent_18,19.4,17.2,24,No,No,Yes,5
+T100264,2025-09-17,Wednesday,North,Email,Technical Issue,Medium,Agent_02,32.3,6.9,24,No,No,Yes,1
+T100265,2025-07-11,Friday,East,Chat,Policy Change,Medium,Agent_03,23.6,24.2,24,Yes,No,Yes,2
+T100266,2025-02-23,Sunday,East,Phone,Policy Change,Medium,Agent_18,22.6,20.1,24,No,No,Yes,2
+T100267,2025-03-31,Monday,West,Portal,Technical Issue,Low,Agent_21,25.1,0.8,48,No,Yes,Yes,4
+T100268,2025-02-02,Sunday,West,Phone,Claim Status,High,Agent_02,11.3,7.7,8,No,No,No,1
+T100269,2025-01-22,Wednesday,East,Portal,Complaint,Critical,Agent_13,21.4,5.7,4,Yes,Yes,No,1
+T100270,2025-08-31,Sunday,East,Phone,Refund Request,Low,Agent_07,16.5,33.1,48,No,No,No,1
+T100271,2025-01-25,Saturday,East,Phone,Policy Change,High,Agent_14,23.5,9.4,8,Yes,No,Yes,4
+T100272,2025-08-14,Thursday,West,Phone,Claim Status,Medium,Agent_16,20.2,34.2,24,Yes,No,Yes,1
+T100273,2025-07-08,Tuesday,East,Chat,Refund Request,Low,Agent_14,12.3,37.6,48,No,No,Yes,2
+T100274,2025-04-03,Thursday,East,Phone,Billing,Medium,Agent_11,3.6,7.8,24,No,No,Yes,2
+T100275,2025-06-06,Friday,West,Chat,Technical Issue,Medium,Agent_06,15.2,24.0,24,Yes,No,Yes,1
+T100276,2025-06-29,Sunday,West,Phone,Policy Change,Critical,Agent_20,23.5,0.5,4,No,No,Yes,3
+T100277,2025-05-21,Wednesday,North,Phone,Refund Request,Medium,Agent_13,12.0,0.5,24,No,No,Yes,4
+T100278,2025-03-23,Sunday,North,Phone,Complaint,High,Agent_22,22.2,4.9,8,No,No,No,2
+T100279,2025-01-18,Saturday,South,Phone,Refund Request,Medium,Agent_12,5.8,10.2,24,No,No,Yes,4
+T100280,2025-01-17,Friday,South,Chat,Policy Change,Medium,Agent_12,8.1,1.0,24,No,No,Yes,3
+T100281,2025-02-09,Sunday,South,Email,Technical Issue,Medium,Agent_11,36.4,22.3,24,No,No,No,5
+T100282,2025-05-08,Thursday,North,Phone,Claim Status,Medium,Agent_16,14.6,28.9,24,Yes,No,Yes,1
+T100283,2025-03-02,Sunday,East,Chat,Refund Request,Low,Agent_15,8.1,63.0,48,Yes,No,Yes,2
+T100284,2025-05-27,Tuesday,West,Phone,Claim Status,Medium,Agent_03,15.8,7.7,24,No,No,Yes,3
+T100285,2025-08-16,Saturday,North,Chat,Policy Change,Medium,Agent_22,15.3,24.2,24,Yes,No,Yes,1
+T100286,2025-02-03,Monday,East,Portal,Claim Status,High,Agent_23,20.6,5.4,8,No,No,Yes,4
+T100287,2025-03-31,Monday,East,Email,Billing,High,Agent_07,25.5,1.3,8,No,No,Yes,2
+T100288,2025-05-02,Friday,West,Phone,Complaint,Medium,Agent_19,17.9,15.4,24,No,No,Yes,5
+T100289,2025-03-08,Saturday,North,Phone,Technical Issue,High,Agent_23,22.4,6.0,8,No,No,No,4
+T100290,2025-09-27,Saturday,West,Chat,Complaint,Low,Agent_03,15.5,20.9,48,No,No,Yes,5
+T100291,2025-06-12,Thursday,North,Email,Refund Request,Medium,Agent_17,30.9,19.3,24,No,No,Yes,4
+T100292,2025-04-04,Friday,South,Email,Billing,Medium,Agent_04,29.0,11.4,24,No,No,Yes,2
+T100293,2025-06-05,Thursday,South,Phone,Refund Request,Medium,Agent_08,14.2,20.9,24,No,No,Yes,1
+T100294,2025-09-23,Tuesday,East,Chat,Policy Change,Medium,Agent_07,18.2,20.8,24,No,No,Yes,5
+T100295,2025-05-21,Wednesday,South,Chat,Complaint,Low,Agent_18,25.1,64.8,48,Yes,No,Yes,4
+T100296,2025-03-28,Friday,South,Phone,Complaint,High,Agent_24,21.6,13.9,8,Yes,No,Yes,4
+T100297,2025-06-22,Sunday,North,Chat,Billing,Low,Agent_03,5.9,70.0,48,Yes,No,Yes,2
+T100298,2025-05-16,Friday,South,Chat,Technical Issue,Medium,Agent_20,18.5,11.7,24,No,No,Yes,4
+T100299,2025-09-12,Friday,East,Chat,Policy Change,Low,Agent_16,12.1,14.1,48,No,No,Yes,4
+T100300,2025-07-27,Sunday,East,Email,Refund Request,Low,Agent_02,36.2,29.5,48,No,No,Yes,5
+T100301,2025-08-01,Friday,West,Email,Policy Change,Low,Agent_20,34.2,3.7,48,No,No,Yes,2
+T100302,2025-06-13,Friday,East,Portal,Claim Status,Medium,Agent_25,25.1,5.2,24,No,No,Yes,1
+T100303,2025-02-24,Monday,East,Phone,Billing,Medium,Agent_09,11.9,17.9,24,No,No,Yes,2
+T100304,2025-03-14,Friday,North,Phone,Technical Issue,Medium,Agent_20,15.0,22.8,24,No,No,Yes,1
+T100305,2025-03-23,Sunday,East,Portal,Refund Request,Low,Agent_11,8.3,38.4,48,No,Yes,No,5
+T100306,2025-09-13,Saturday,West,Email,Policy Change,Low,Agent_16,35.3,48.3,48,Yes,No,Yes,3
+T100307,2025-07-21,Monday,West,Portal,Claim Status,Medium,Agent_19,15.3,19.0,24,No,No,Yes,4
+T100308,2025-01-26,Sunday,East,Email,Refund Request,Medium,Agent_22,33.5,41.6,24,Yes,Yes,Yes,1
+T100309,2025-01-05,Sunday,North,Email,Policy Change,Medium,Agent_24,25.2,2.0,24,No,No,Yes,1
+T100310,2025-07-26,Saturday,East,Phone,Billing,Medium,Agent_19,7.8,1.4,24,No,No,Yes,3
+T100311,2025-07-05,Saturday,East,Phone,Complaint,High,Agent_15,23.8,10.1,8,Yes,No,Yes,3
+T100312,2025-05-24,Saturday,North,Phone,Billing,Medium,Agent_13,9.8,28.0,24,Yes,No,No,2
+T100313,2025-06-23,Monday,East,Chat,Claim Status,Medium,Agent_20,9.7,42.1,24,Yes,Yes,Yes,1
+T100314,2025-01-21,Tuesday,North,Phone,Refund Request,High,Agent_11,14.8,3.9,8,No,No,Yes,2
+T100315,2025-09-23,Tuesday,West,Phone,Complaint,Medium,Agent_05,20.9,18.7,24,No,No,No,1
+T100316,2025-06-13,Friday,South,Email,Complaint,High,Agent_24,42.0,7.4,8,No,No,Yes,1
+T100317,2025-06-22,Sunday,West,Chat,Policy Change,High,Agent_16,17.6,8.8,8,Yes,No,Yes,3
+T100318,2025-07-08,Tuesday,East,Chat,Technical Issue,Medium,Agent_19,19.5,17.3,24,No,No,Yes,4
+T100319,2025-01-14,Tuesday,West,Phone,Refund Request,Medium,Agent_25,12.3,15.4,24,No,No,Yes,2
+T100320,2025-04-27,Sunday,North,Chat,Claim Status,Medium,Agent_17,8.2,33.3,24,Yes,Yes,No,1
+T100321,2025-07-14,Monday,South,Chat,Claim Status,Medium,Agent_02,12.6,2.6,24,No,No,Yes,1
+T100322,2025-02-26,Wednesday,South,Phone,Policy Change,Low,Agent_14,11.8,45.8,48,No,Yes,No,1
+T100323,2025-04-15,Tuesday,West,Email,Complaint,High,Agent_16,37.7,2.6,8,No,No,No,1
+T100324,2025-02-01,Saturday,South,Email,Complaint,Critical,Agent_11,31.3,2.7,4,No,Yes,No,1
+T100325,2025-09-27,Saturday,West,Phone,Claim Status,High,Agent_15,9.2,4.9,8,No,No,Yes,5
+T100326,2025-06-25,Wednesday,East,Chat,Refund Request,Medium,Agent_22,16.1,15.8,24,No,No,Yes,5
+T100327,2025-05-16,Friday,West,Phone,Claim Status,Medium,Agent_09,13.3,20.6,24,No,No,Yes,5
+T100328,2025-04-26,Saturday,East,Chat,Refund Request,Medium,Agent_07,16.1,27.1,24,Yes,No,Yes,3
+T100329,2025-09-08,Monday,East,Email,Complaint,Low,Agent_24,28.1,19.0,48,No,No,Yes,5
+T100330,2025-03-04,Tuesday,West,Portal,Technical Issue,Critical,Agent_12,17.0,4.4,4,Yes,Yes,No,2
+T100331,2025-05-29,Thursday,North,Phone,Refund Request,Medium,Agent_03,10.1,1.3,24,No,No,Yes,5
+T100332,2025-08-15,Friday,East,Chat,Claim Status,High,Agent_07,15.3,6.1,8,No,No,Yes,1
+T100333,2025-05-19,Monday,East,Phone,Complaint,Medium,Agent_24,21.6,25.6,24,Yes,No,No,2
+T100334,2025-05-05,Monday,North,Chat,Complaint,Medium,Agent_08,11.5,14.2,24,No,No,Yes,5
+T100335,2025-01-27,Monday,North,Email,Refund Request,Low,Agent_16,32.3,20.6,48,No,No,Yes,5
+T100336,2025-03-12,Wednesday,North,Portal,Claim Status,Medium,Agent_14,24.5,35.7,24,Yes,Yes,Yes,2
+T100337,2025-09-02,Tuesday,South,Chat,Policy Change,Low,Agent_11,11.0,58.5,48,Yes,No,Yes,2
+T100338,2025-01-31,Friday,North,Chat,Claim Status,High,Agent_18,7.8,7.3,8,No,No,Yes,2
+T100339,2025-01-20,Monday,South,Email,Claim Status,Critical,Agent_02,32.0,7.8,4,Yes,Yes,Yes,1
+T100340,2025-09-11,Thursday,South,Portal,Policy Change,Low,Agent_02,16.7,26.7,48,No,Yes,No,1
+T100341,2025-02-24,Monday,East,Phone,Refund Request,Medium,Agent_18,13.1,13.2,24,No,No,Yes,5
+T100342,2025-03-10,Monday,West,Phone,Billing,Low,Agent_11,19.6,43.4,48,No,No,Yes,3
+T100343,2025-08-23,Saturday,East,Chat,Billing,Medium,Agent_24,4.9,18.7,24,No,No,Yes,2
+T100344,2025-06-01,Sunday,South,Phone,Refund Request,High,Agent_13,19.9,6.1,8,No,No,Yes,3
+T100345,2025-09-21,Sunday,East,Phone,Refund Request,Low,Agent_04,18.5,49.3,48,Yes,No,Yes,1
+T100346,2025-03-13,Thursday,West,Phone,Claim Status,Low,Agent_01,17.5,1.7,48,No,No,Yes,4
+T100347,2025-05-01,Thursday,West,Chat,Policy Change,Medium,Agent_10,14.3,13.3,24,No,No,Yes,4
+T100348,2025-01-06,Monday,East,Chat,Refund Request,Low,Agent_08,16.0,21.1,48,No,No,Yes,3
+T100349,2025-03-02,Sunday,West,Phone,Technical Issue,Medium,Agent_22,17.9,7.8,24,No,No,No,1
+T100350,2025-06-09,Monday,North,Chat,Policy Change,Medium,Agent_12,5.5,17.6,24,No,No,Yes,4
+T100351,2025-04-23,Wednesday,South,Email,Technical Issue,Critical,Agent_24,39.4,6.2,4,Yes,Yes,No,1
+T100352,2025-08-01,Friday,West,Chat,Refund Request,High,Agent_07,16.7,6.7,8,No,No,Yes,2
+T100353,2025-02-11,Tuesday,West,Email,Policy Change,High,Agent_03,24.5,9.0,8,Yes,No,Yes,2
+T100354,2025-02-27,Thursday,North,Chat,Complaint,Medium,Agent_07,16.4,6.1,24,No,No,Yes,2
+T100355,2025-03-18,Tuesday,South,Phone,Complaint,Low,Agent_15,18.1,46.0,48,No,No,Yes,3
+T100356,2025-04-16,Wednesday,West,Phone,Complaint,High,Agent_15,25.2,7.1,8,No,No,Yes,2
+T100357,2025-08-21,Thursday,South,Email,Technical Issue,Low,Agent_19,28.9,0.5,48,No,No,No,3
+T100358,2025-08-25,Monday,East,Chat,Technical Issue,High,Agent_09,19.0,4.5,8,No,Yes,Yes,1
+T100359,2025-04-22,Tuesday,North,Phone,Policy Change,Low,Agent_23,10.4,57.8,48,Yes,No,Yes,3
+T100360,2025-01-31,Friday,North,Portal,Technical Issue,Low,Agent_02,32.0,56.3,48,Yes,Yes,No,3
+T100361,2025-03-11,Tuesday,West,Email,Technical Issue,High,Agent_15,43.3,9.5,8,Yes,No,No,3
+T100362,2025-07-13,Sunday,West,Phone,Refund Request,Low,Agent_18,17.0,94.1,48,Yes,Yes,Yes,3
+T100363,2025-03-02,Sunday,South,Portal,Technical Issue,Low,Agent_17,25.8,24.1,48,No,No,Yes,1
+T100364,2025-04-25,Friday,North,Chat,Policy Change,Medium,Agent_15,10.8,15.5,24,No,No,Yes,3
+T100365,2025-08-06,Wednesday,West,Chat,Claim Status,Medium,Agent_15,16.9,25.3,24,Yes,No,Yes,3
+T100366,2025-05-22,Thursday,South,Portal,Refund Request,Low,Agent_25,13.4,33.3,48,No,No,No,4
+T100367,2025-08-03,Sunday,North,Phone,Billing,Medium,Agent_04,18.0,0.5,24,No,No,Yes,5
+T100368,2025-08-17,Sunday,North,Phone,Billing,Medium,Agent_13,15.6,32.9,24,Yes,No,Yes,2
+T100369,2025-04-22,Tuesday,North,Phone,Policy Change,High,Agent_08,19.6,5.1,8,No,No,Yes,3
+T100370,2025-06-13,Friday,East,Phone,Claim Status,Medium,Agent_22,12.5,0.5,24,No,No,Yes,5
+T100371,2025-07-31,Thursday,East,Phone,Complaint,High,Agent_19,26.5,16.3,8,Yes,Yes,No,2
+T100372,2025-08-07,Thursday,West,Phone,Policy Change,Medium,Agent_21,26.3,12.4,24,No,No,Yes,4
+T100373,2025-09-26,Friday,East,Chat,Technical Issue,Low,Agent_05,15.6,14.4,48,No,No,Yes,5
+T100374,2025-04-05,Saturday,West,Phone,Claim Status,High,Agent_10,11.1,2.7,8,No,No,No,2
+T100375,2025-03-15,Saturday,West,Portal,Complaint,Critical,Agent_14,29.6,1.5,4,No,No,No,4
+T100376,2025-03-10,Monday,West,Phone,Claim Status,Medium,Agent_11,16.9,24.3,24,Yes,Yes,No,1
+T100377,2025-07-09,Wednesday,North,Email,Claim Status,Low,Agent_02,29.5,11.9,48,No,No,Yes,2
+T100378,2025-01-21,Tuesday,North,Phone,Complaint,Medium,Agent_24,23.8,33.0,24,Yes,No,No,4
+T100379,2025-04-22,Tuesday,West,Phone,Policy Change,Critical,Agent_10,17.5,2.9,4,No,Yes,No,2
+T100380,2025-04-19,Saturday,South,Portal,Billing,Critical,Agent_24,10.8,6.0,4,Yes,Yes,Yes,3
+T100381,2025-05-05,Monday,South,Email,Claim Status,Medium,Agent_18,20.9,44.8,24,Yes,Yes,Yes,2
+T100382,2025-07-14,Monday,West,Email,Policy Change,Low,Agent_10,26.9,30.4,48,No,No,Yes,5
+T100383,2025-09-20,Saturday,West,Email,Refund Request,High,Agent_16,27.5,1.1,8,No,No,Yes,1
+T100384,2025-06-13,Friday,South,Email,Technical Issue,Medium,Agent_02,28.9,17.6,24,No,No,Yes,5
+T100385,2025-04-24,Thursday,South,Phone,Complaint,Medium,Agent_19,24.0,8.3,24,No,No,Yes,3
+T100386,2025-08-02,Saturday,East,Phone,Policy Change,Medium,Agent_08,21.1,58.5,24,Yes,Yes,No,3
+T100387,2025-09-13,Saturday,East,Phone,Technical Issue,Medium,Agent_24,20.4,16.6,24,No,No,Yes,5
+T100388,2025-09-09,Tuesday,West,Phone,Policy Change,Low,Agent_06,15.6,15.3,48,No,No,Yes,5
+T100389,2025-09-08,Monday,South,Portal,Complaint,Critical,Agent_21,20.1,5.7,4,Yes,Yes,No,1
+T100390,2025-01-18,Saturday,North,Portal,Refund Request,High,Agent_02,21.8,10.7,8,Yes,No,Yes,2
+T100391,2025-07-31,Thursday,South,Chat,Claim Status,High,Agent_03,13.4,8.4,8,Yes,No,Yes,3
+T100392,2025-01-05,Sunday,South,Email,Policy Change,Medium,Agent_02,20.0,10.9,24,No,Yes,Yes,1
+T100393,2025-09-05,Friday,West,Phone,Complaint,Medium,Agent_18,22.6,3.0,24,No,No,No,4
+T100394,2025-01-09,Thursday,East,Email,Policy Change,Medium,Agent_01,26.3,6.0,24,No,No,Yes,2
+T100395,2025-08-09,Saturday,South,Phone,Billing,Low,Agent_17,14.4,17.3,48,No,No,Yes,3
+T100396,2025-04-09,Wednesday,East,Chat,Policy Change,Low,Agent_13,18.9,28.4,48,No,No,Yes,4
+T100397,2025-07-27,Sunday,West,Chat,Refund Request,Low,Agent_08,11.3,23.7,48,No,No,Yes,3
+T100398,2025-02-11,Tuesday,North,Phone,Technical Issue,Medium,Agent_13,25.0,10.8,24,No,No,No,1
+T100399,2025-01-29,Wednesday,North,Chat,Billing,High,Agent_16,9.1,10.1,8,Yes,No,Yes,4
+T100400,2025-06-19,Thursday,North,Portal,Billing,Low,Agent_08,20.7,61.1,48,Yes,No,No,2
+T100401,2025-09-01,Monday,East,Phone,Billing,Critical,Agent_22,17.9,6.9,4,Yes,No,No,4
+T100402,2025-01-17,Friday,South,Portal,Policy Change,Critical,Agent_01,23.4,3.9,4,No,Yes,No,1
+T100403,2025-03-15,Saturday,West,Portal,Policy Change,Medium,Agent_06,27.6,15.7,24,No,No,Yes,2
+T100404,2025-07-19,Saturday,East,Email,Refund Request,High,Agent_05,30.7,6.0,8,No,No,Yes,4
+T100405,2025-02-10,Monday,East,Phone,Technical Issue,High,Agent_08,17.2,4.3,8,No,No,Yes,2
+T100406,2025-06-24,Tuesday,West,Portal,Policy Change,Medium,Agent_01,15.3,36.1,24,Yes,No,Yes,3
+T100407,2025-08-19,Tuesday,West,Phone,Complaint,Medium,Agent_13,24.0,16.6,24,No,No,Yes,2
+T100408,2025-07-14,Monday,North,Chat,Policy Change,High,Agent_08,21.0,3.2,8,No,Yes,Yes,1
+T100409,2025-05-18,Sunday,South,Email,Refund Request,High,Agent_05,34.3,4.4,8,No,No,Yes,5
+T100410,2025-06-12,Thursday,East,Phone,Billing,Medium,Agent_10,14.6,18.5,24,No,No,Yes,3
+T100411,2025-05-19,Monday,North,Phone,Claim Status,Medium,Agent_14,20.3,32.2,24,Yes,Yes,Yes,1
+T100412,2025-09-20,Saturday,West,Phone,Billing,Medium,Agent_12,3.5,0.5,24,No,No,Yes,3
+T100413,2025-06-16,Monday,West,Phone,Technical Issue,High,Agent_13,26.5,4.4,8,No,No,Yes,2
+T100414,2025-05-05,Monday,South,Chat,Claim Status,Low,Agent_05,15.7,50.6,48,Yes,No,No,1
+T100415,2025-05-18,Sunday,West,Phone,Claim Status,Low,Agent_14,20.4,23.5,48,No,No,No,5
+T100416,2025-06-03,Tuesday,West,Chat,Policy Change,Critical,Agent_09,10.4,4.7,4,Yes,Yes,Yes,1
+T100417,2025-09-11,Thursday,South,Email,Claim Status,Low,Agent_10,33.0,2.6,48,No,No,Yes,1
+T100418,2025-07-22,Tuesday,East,Chat,Technical Issue,Medium,Agent_11,19.1,25.4,24,Yes,No,No,4
+T100419,2025-08-09,Saturday,South,Phone,Complaint,Low,Agent_23,19.5,48.9,48,Yes,No,Yes,1
+T100420,2025-06-10,Tuesday,South,Portal,Policy Change,High,Agent_10,30.3,8.3,8,Yes,No,Yes,3
+T100421,2025-09-09,Tuesday,South,Phone,Policy Change,Medium,Agent_13,19.3,23.0,24,No,No,No,1
+T100422,2025-04-13,Sunday,South,Chat,Complaint,Critical,Agent_01,13.4,4.2,4,Yes,Yes,Yes,3
+T100423,2025-04-18,Friday,West,Chat,Refund Request,High,Agent_03,20.1,11.2,8,Yes,No,Yes,3
+T100424,2025-07-29,Tuesday,West,Phone,Policy Change,Low,Agent_08,16.8,17.4,48,No,No,Yes,2
+T100425,2025-03-20,Thursday,West,Chat,Billing,Critical,Agent_15,8.0,0.5,4,No,No,Yes,1
+T100426,2025-09-03,Wednesday,West,Email,Refund Request,Medium,Agent_14,34.0,18.8,24,No,No,Yes,1
+T100427,2025-07-04,Friday,North,Phone,Claim Status,Medium,Agent_22,14.9,0.5,24,No,No,Yes,5
+T100428,2025-03-27,Thursday,North,Chat,Refund Request,Medium,Agent_22,26.4,10.1,24,No,No,No,1
+T100429,2025-06-19,Thursday,West,Phone,Billing,Low,Agent_09,10.5,19.2,48,No,No,Yes,2
+T100430,2025-09-23,Tuesday,South,Email,Technical Issue,High,Agent_15,34.9,5.0,8,No,No,Yes,1
+T100431,2025-09-14,Sunday,South,Phone,Billing,Low,Agent_16,12.7,59.1,48,Yes,No,Yes,4
+T100432,2025-08-01,Friday,North,Phone,Refund Request,Medium,Agent_05,15.5,17.9,24,No,No,No,5
+T100433,2025-06-25,Wednesday,West,Chat,Complaint,Medium,Agent_16,12.1,0.5,24,No,No,No,5
+T100434,2025-02-19,Wednesday,West,Chat,Technical Issue,Low,Agent_11,21.2,11.2,48,No,No,No,4
+T100435,2025-01-23,Thursday,North,Phone,Policy Change,Low,Agent_21,15.6,36.4,48,No,No,Yes,4
+T100436,2025-03-26,Wednesday,South,Email,Complaint,Medium,Agent_06,31.5,20.1,24,No,No,Yes,2
+T100437,2025-08-07,Thursday,West,Phone,Technical Issue,Low,Agent_21,21.0,17.9,48,No,No,No,4
+T100438,2025-08-10,Sunday,West,Phone,Complaint,Medium,Agent_07,20.9,10.6,24,No,No,No,1
+T100439,2025-08-08,Friday,West,Phone,Claim Status,Low,Agent_07,20.0,39.5,48,No,No,Yes,3
+T100440,2025-02-02,Sunday,North,Chat,Complaint,Medium,Agent_06,20.0,24.1,24,Yes,No,No,2
+T100441,2025-04-11,Friday,West,Phone,Refund Request,Medium,Agent_16,18.0,33.0,24,Yes,No,No,1
+T100442,2025-06-10,Tuesday,West,Chat,Complaint,Medium,Agent_04,18.8,14.8,24,No,No,Yes,5
+T100443,2025-08-23,Saturday,South,Chat,Refund Request,High,Agent_10,18.0,5.0,8,No,No,Yes,1
+T100444,2025-02-13,Thursday,South,Phone,Claim Status,Low,Agent_10,20.3,58.3,48,Yes,No,Yes,1
+T100445,2025-07-11,Friday,South,Email,Technical Issue,Low,Agent_20,29.3,30.4,48,No,No,No,4
+T100446,2025-07-16,Wednesday,West,Phone,Refund Request,Medium,Agent_18,14.2,4.0,24,No,No,Yes,1
+T100447,2025-03-30,Sunday,South,Email,Claim Status,Medium,Agent_06,19.9,10.1,24,No,No,Yes,1
+T100448,2025-08-19,Tuesday,North,Portal,Billing,Low,Agent_16,14.6,27.0,48,No,No,Yes,4
+T100449,2025-07-16,Wednesday,West,Email,Technical Issue,High,Agent_14,27.5,4.9,8,No,No,Yes,4
+T100450,2025-08-16,Saturday,West,Phone,Complaint,High,Agent_01,23.1,0.5,8,No,No,Yes,3
+T100451,2025-04-23,Wednesday,East,Phone,Claim Status,Low,Agent_18,7.6,18.1,48,No,No,Yes,2
+T100452,2025-08-23,Saturday,West,Email,Billing,Low,Agent_19,26.4,55.8,48,Yes,No,Yes,1
+T100453,2025-07-07,Monday,North,Chat,Technical Issue,Low,Agent_18,16.8,18.5,48,No,Yes,No,2
+T100454,2025-02-22,Saturday,South,Phone,Billing,Low,Agent_15,3.2,5.7,48,No,No,Yes,5
+T100455,2025-02-14,Friday,West,Portal,Billing,High,Agent_25,17.8,7.4,8,No,Yes,No,5
+T100456,2025-06-29,Sunday,West,Phone,Claim Status,High,Agent_07,2.9,1.7,8,No,No,Yes,5
+T100457,2025-01-31,Friday,East,Email,Complaint,Low,Agent_18,27.3,5.1,48,No,No,Yes,5
+T100458,2025-05-30,Friday,East,Chat,Complaint,High,Agent_22,32.2,0.5,8,No,No,Yes,3
+T100459,2025-03-11,Tuesday,West,Portal,Policy Change,Low,Agent_21,26.3,24.6,48,No,No,Yes,5
+T100460,2025-03-09,Sunday,South,Phone,Policy Change,High,Agent_08,11.7,2.8,8,No,No,Yes,3
+T100461,2025-07-21,Monday,West,Phone,Refund Request,Medium,Agent_09,18.5,5.4,24,No,No,Yes,2
+T100462,2025-07-12,Saturday,West,Phone,Billing,Medium,Agent_13,2.0,14.1,24,No,No,No,1
+T100463,2025-05-23,Friday,East,Email,Technical Issue,Medium,Agent_11,32.1,30.6,24,Yes,No,Yes,4
+T100464,2025-02-17,Monday,West,Chat,Refund Request,High,Agent_12,27.2,1.3,8,No,Yes,No,3
+T100465,2025-07-23,Wednesday,South,Portal,Claim Status,Low,Agent_16,10.6,55.5,48,Yes,No,Yes,2
+T100466,2025-05-26,Monday,East,Email,Claim Status,High,Agent_19,25.6,5.8,8,No,No,Yes,2
+T100467,2025-06-25,Wednesday,North,Phone,Refund Request,Low,Agent_15,18.9,33.0,48,No,No,No,2
+T100468,2025-03-22,Saturday,West,Email,Technical Issue,Critical,Agent_07,49.3,0.8,4,No,No,Yes,3
+T100469,2025-03-09,Sunday,East,Phone,Policy Change,Medium,Agent_03,7.3,46.9,24,Yes,No,No,2
+T100470,2025-05-09,Friday,North,Email,Refund Request,Low,Agent_06,36.0,27.1,48,No,No,Yes,5
+T100471,2025-06-06,Friday,South,Email,Billing,Low,Agent_23,25.8,53.5,48,Yes,Yes,Yes,1
+T100472,2025-09-02,Tuesday,North,Phone,Claim Status,Medium,Agent_17,19.0,0.5,24,No,No,No,2
+T100473,2025-01-05,Sunday,North,Chat,Billing,Medium,Agent_14,18.8,14.5,24,No,No,Yes,2
+T100474,2025-09-02,Tuesday,North,Phone,Billing,High,Agent_24,19.1,9.8,8,Yes,No,Yes,2
+T100475,2025-02-22,Saturday,East,Email,Policy Change,Medium,Agent_05,35.8,21.7,24,No,No,Yes,1
+T100476,2025-03-10,Monday,South,Phone,Complaint,Medium,Agent_01,28.0,4.8,24,No,Yes,Yes,5
+T100477,2025-08-14,Thursday,East,Chat,Refund Request,Low,Agent_24,16.3,42.9,48,No,No,Yes,1
+T100478,2025-07-30,Wednesday,West,Portal,Billing,Low,Agent_04,10.2,52.3,48,Yes,No,Yes,2
+T100479,2025-03-05,Wednesday,West,Email,Technical Issue,High,Agent_11,29.0,4.6,8,No,No,No,2
+T100480,2025-05-07,Wednesday,East,Chat,Claim Status,Medium,Agent_18,15.0,39.1,24,Yes,Yes,No,1
+T100481,2025-05-26,Monday,North,Chat,Refund Request,Low,Agent_10,13.1,56.3,48,Yes,Yes,Yes,1
+T100482,2025-09-18,Thursday,South,Chat,Policy Change,Low,Agent_21,13.6,53.3,48,Yes,No,Yes,2
+T100483,2025-05-03,Saturday,West,Email,Claim Status,Medium,Agent_16,29.3,13.5,24,No,No,Yes,5
+T100484,2025-02-06,Thursday,North,Portal,Policy Change,Medium,Agent_05,28.4,12.2,24,No,No,Yes,2
+T100485,2025-08-04,Monday,East,Email,Claim Status,Medium,Agent_25,38.0,45.9,24,Yes,Yes,No,1
+T100486,2025-01-09,Thursday,North,Phone,Claim Status,Critical,Agent_02,20.2,3.7,4,No,No,Yes,4
+T100487,2025-07-23,Wednesday,East,Chat,Complaint,Medium,Agent_25,21.0,11.9,24,No,No,Yes,2
+T100488,2025-07-25,Friday,North,Chat,Complaint,Low,Agent_20,20.7,24.7,48,No,Yes,No,1
+T100489,2025-06-08,Sunday,North,Email,Claim Status,Medium,Agent_05,29.0,26.7,24,Yes,Yes,Yes,1
+T100490,2025-02-03,Monday,East,Chat,Refund Request,Low,Agent_08,9.7,88.3,48,Yes,Yes,Yes,2
+T100491,2025-08-11,Monday,North,Email,Complaint,Medium,Agent_02,40.3,18.6,24,No,No,No,3
+T100492,2025-03-31,Monday,North,Phone,Claim Status,Low,Agent_23,20.3,31.0,48,No,No,No,5
+T100493,2025-09-12,Friday,East,Email,Refund Request,Low,Agent_09,33.7,35.7,48,No,No,Yes,5
+T100494,2025-03-06,Thursday,East,Chat,Billing,High,Agent_25,13.8,9.6,8,Yes,No,Yes,1
+T100495,2025-06-21,Saturday,West,Phone,Billing,High,Agent_09,14.0,6.1,8,No,No,Yes,3
+T100496,2025-02-09,Sunday,West,Email,Policy Change,Medium,Agent_02,28.8,18.1,24,No,No,No,4
+T100497,2025-03-27,Thursday,East,Phone,Billing,Medium,Agent_19,11.6,44.0,24,Yes,Yes,No,2
+T100498,2025-04-27,Sunday,North,Phone,Billing,Low,Agent_08,9.5,30.8,48,No,No,Yes,5
+T100499,2025-07-06,Sunday,West,Portal,Claim Status,Medium,Agent_02,27.1,10.8,24,No,No,No,1
+T100500,2025-08-03,Sunday,South,Phone,Technical Issue,Medium,Agent_24,23.2,38.5,24,Yes,Yes,No,3
+T100501,2025-07-10,Thursday,North,Email,Billing,Low,Agent_06,20.7,55.2,48,Yes,No,Yes,1
+T100502,2025-09-22,Monday,North,Portal,Billing,High,Agent_15,13.4,7.5,8,No,No,Yes,2
+T100503,2025-06-09,Monday,East,Phone,Technical Issue,Medium,Agent_01,15.4,17.8,24,No,No,Yes,2
+T100504,2025-05-30,Friday,East,Chat,Claim Status,Medium,Agent_15,11.9,0.5,24,No,No,Yes,4
+T100505,2025-09-10,Wednesday,South,Chat,Complaint,High,Agent_25,18.9,4.8,8,No,No,Yes,1
+T100506,2025-03-19,Wednesday,North,Portal,Billing,Medium,Agent_08,20.3,9.9,24,No,No,Yes,2
+T100507,2025-01-05,Sunday,East,Phone,Refund Request,High,Agent_13,18.2,14.6,8,Yes,Yes,Yes,1
+T100508,2025-06-07,Saturday,North,Phone,Claim Status,Medium,Agent_14,14.2,18.1,24,No,Yes,Yes,1
+T100509,2025-03-14,Friday,East,Phone,Claim Status,Medium,Agent_17,11.8,23.8,24,No,No,Yes,3
+T100510,2025-07-10,Thursday,West,Portal,Billing,Low,Agent_19,18.0,71.8,48,Yes,No,Yes,2
+T100511,2025-03-10,Monday,West,Phone,Complaint,Medium,Agent_02,23.9,27.9,24,Yes,No,Yes,2
+T100512,2025-03-08,Saturday,South,Phone,Policy Change,High,Agent_13,16.0,5.0,8,No,No,Yes,4
+T100513,2025-06-17,Tuesday,East,Email,Claim Status,Critical,Agent_03,25.5,2.7,4,No,No,Yes,1
+T100514,2025-03-11,Tuesday,North,Phone,Claim Status,Medium,Agent_15,16.9,1.5,24,No,No,Yes,4
+T100515,2025-07-28,Monday,North,Email,Claim Status,Medium,Agent_15,25.6,22.8,24,No,No,Yes,1
+T100516,2025-05-16,Friday,North,Phone,Refund Request,High,Agent_10,23.4,7.4,8,No,No,Yes,5
+T100517,2025-01-21,Tuesday,South,Chat,Policy Change,Low,Agent_05,19.5,34.8,48,No,No,Yes,1
+T100518,2025-05-08,Thursday,East,Email,Billing,Low,Agent_22,28.2,29.1,48,No,No,Yes,1
+T100519,2025-03-31,Monday,North,Portal,Technical Issue,High,Agent_18,28.6,9.2,8,Yes,No,Yes,1
+T100520,2025-05-08,Thursday,North,Email,Claim Status,Low,Agent_04,23.6,30.6,48,No,No,Yes,5
+T100521,2025-04-24,Thursday,South,Phone,Technical Issue,Medium,Agent_12,23.3,18.6,24,No,No,Yes,5
+T100522,2025-02-13,Thursday,East,Portal,Billing,Critical,Agent_01,26.4,0.5,4,No,No,Yes,5
+T100523,2025-04-12,Saturday,West,Chat,Billing,Low,Agent_11,6.9,44.9,48,No,No,Yes,3
+T100524,2025-08-25,Monday,North,Phone,Complaint,High,Agent_14,9.0,5.4,8,No,No,Yes,4
+T100525,2025-07-22,Tuesday,West,Phone,Refund Request,Low,Agent_14,14.9,2.5,48,No,No,Yes,2
+T100526,2025-04-20,Sunday,South,Phone,Technical Issue,Low,Agent_05,22.1,34.0,48,No,No,Yes,4
+T100527,2025-05-06,Tuesday,East,Email,Complaint,Low,Agent_16,38.6,8.8,48,No,No,Yes,2
+T100528,2025-05-24,Saturday,West,Phone,Claim Status,High,Agent_21,16.0,17.0,8,Yes,Yes,Yes,2
+T100529,2025-05-08,Thursday,North,Portal,Refund Request,Medium,Agent_12,24.5,0.5,24,No,No,Yes,2
+T100530,2025-09-06,Saturday,East,Portal,Complaint,Medium,Agent_11,29.4,12.5,24,No,No,Yes,5
+T100531,2025-04-03,Thursday,North,Phone,Claim Status,High,Agent_01,13.2,0.9,8,No,No,Yes,4
+T100532,2025-05-24,Saturday,North,Chat,Technical Issue,Medium,Agent_17,13.2,1.8,24,No,No,No,1
+T100533,2025-04-30,Wednesday,South,Phone,Refund Request,Low,Agent_08,13.8,59.0,48,Yes,No,Yes,2
+T100534,2025-01-29,Wednesday,South,Chat,Technical Issue,Critical,Agent_12,16.6,2.8,4,No,Yes,No,5
+T100535,2025-04-01,Tuesday,South,Chat,Refund Request,Medium,Agent_23,16.0,1.6,24,No,No,Yes,2
+T100536,2025-01-15,Wednesday,East,Portal,Complaint,Medium,Agent_05,27.4,23.1,24,No,No,No,2
+T100537,2025-04-07,Monday,West,Email,Claim Status,Low,Agent_16,23.6,47.2,48,No,No,Yes,3
+T100538,2025-01-29,Wednesday,South,Chat,Billing,Medium,Agent_17,2.0,9.5,24,No,No,Yes,2
+T100539,2025-06-19,Thursday,South,Chat,Policy Change,Low,Agent_23,14.1,51.3,48,Yes,No,Yes,1
+T100540,2025-06-15,Sunday,North,Phone,Complaint,High,Agent_23,24.0,1.4,8,No,No,Yes,4
+T100541,2025-02-26,Wednesday,East,Portal,Policy Change,Critical,Agent_23,14.1,8.0,4,Yes,Yes,No,1
+T100542,2025-02-21,Friday,East,Phone,Claim Status,High,Agent_06,22.3,4.4,8,No,No,Yes,2
+T100543,2025-08-12,Tuesday,West,Chat,Claim Status,Critical,Agent_23,9.7,4.7,4,Yes,No,Yes,1
+T100544,2025-07-02,Wednesday,South,Chat,Claim Status,Medium,Agent_13,4.1,19.9,24,No,No,Yes,5
+T100545,2025-05-31,Saturday,South,Phone,Billing,Critical,Agent_23,15.5,0.8,4,No,Yes,No,4
+T100546,2025-01-17,Friday,South,Chat,Complaint,Medium,Agent_08,13.9,15.4,24,No,Yes,No,4
+T100547,2025-09-12,Friday,South,Phone,Billing,Medium,Agent_08,17.5,8.1,24,No,No,Yes,5
+T100548,2025-06-13,Friday,South,Chat,Billing,Medium,Agent_23,2.0,10.3,24,No,No,Yes,3
+T100549,2025-06-21,Saturday,West,Phone,Claim Status,Medium,Agent_08,12.9,13.2,24,No,No,No,4
+T100550,2025-06-29,Sunday,East,Chat,Refund Request,Low,Agent_01,21.3,0.6,48,No,No,Yes,2
+T100551,2025-08-13,Wednesday,West,Portal,Technical Issue,High,Agent_16,18.8,7.3,8,No,No,No,3
+T100552,2025-06-29,Sunday,West,Phone,Technical Issue,Medium,Agent_19,18.4,38.9,24,Yes,No,No,1
+T100553,2025-04-26,Saturday,South,Email,Billing,Low,Agent_10,25.9,13.3,48,No,No,Yes,3
+T100554,2025-05-14,Wednesday,North,Phone,Claim Status,Low,Agent_13,19.0,30.1,48,No,No,Yes,3
+T100555,2025-02-08,Saturday,North,Phone,Complaint,High,Agent_16,20.6,6.3,8,No,No,No,1
+T100556,2025-08-09,Saturday,South,Chat,Technical Issue,Low,Agent_06,21.2,21.7,48,No,No,Yes,4
+T100557,2025-06-19,Thursday,South,Portal,Technical Issue,Medium,Agent_23,28.3,25.8,24,Yes,No,No,1
+T100558,2025-05-16,Friday,East,Phone,Billing,Medium,Agent_02,11.1,0.5,24,No,No,Yes,4
+T100559,2025-09-09,Tuesday,South,Phone,Billing,Low,Agent_14,10.5,32.2,48,No,No,Yes,2
+T100560,2025-09-03,Wednesday,South,Phone,Claim Status,Medium,Agent_06,21.4,32.5,24,Yes,Yes,No,4
+T100561,2025-08-31,Sunday,North,Phone,Technical Issue,Medium,Agent_16,21.0,29.5,24,Yes,No,Yes,1
+T100562,2025-05-16,Friday,North,Chat,Technical Issue,Medium,Agent_06,16.1,0.8,24,No,Yes,No,2
+T100563,2025-07-09,Wednesday,South,Email,Policy Change,Medium,Agent_15,31.9,19.0,24,No,No,Yes,2
+T100564,2025-04-26,Saturday,East,Chat,Claim Status,Medium,Agent_25,14.9,24.6,24,Yes,No,Yes,2
+T100565,2025-02-19,Wednesday,North,Chat,Complaint,Critical,Agent_14,12.3,6.2,4,Yes,Yes,Yes,1
+T100566,2025-04-27,Sunday,North,Chat,Complaint,Critical,Agent_14,14.0,1.7,4,No,Yes,No,1
+T100567,2025-09-01,Monday,South,Email,Billing,High,Agent_13,30.0,5.0,8,No,No,Yes,1
+T100568,2025-01-18,Saturday,South,Phone,Technical Issue,Critical,Agent_06,17.3,0.5,4,No,No,Yes,2
+T100569,2025-03-27,Thursday,South,Chat,Claim Status,Medium,Agent_02,10.5,4.8,24,No,No,Yes,3
+T100570,2025-08-11,Monday,South,Portal,Refund Request,High,Agent_05,22.4,9.9,8,Yes,No,Yes,1
+T100571,2025-05-13,Tuesday,East,Portal,Billing,Medium,Agent_03,17.0,26.2,24,Yes,Yes,No,2
+T100572,2025-06-16,Monday,East,Email,Billing,Medium,Agent_23,32.6,10.9,24,No,No,Yes,3
+T100573,2025-09-25,Thursday,West,Phone,Claim Status,Medium,Agent_05,12.0,17.2,24,No,No,Yes,3
+T100574,2025-02-21,Friday,North,Chat,Billing,High,Agent_10,4.4,2.4,8,No,No,No,3
+T100575,2025-06-26,Thursday,West,Phone,Refund Request,Medium,Agent_16,11.1,20.1,24,No,No,Yes,1
+T100576,2025-08-31,Sunday,North,Phone,Technical Issue,Medium,Agent_05,21.0,9.0,24,No,No,No,5
+T100577,2025-07-25,Friday,North,Email,Policy Change,Low,Agent_23,35.1,11.6,48,No,No,Yes,1
+T100578,2025-09-01,Monday,East,Portal,Billing,High,Agent_11,6.8,9.8,8,Yes,Yes,Yes,1
+T100579,2025-06-09,Monday,East,Chat,Refund Request,Low,Agent_22,12.9,38.9,48,No,No,Yes,1
+T100580,2025-04-27,Sunday,South,Phone,Refund Request,High,Agent_15,17.7,4.0,8,No,No,No,1
+T100581,2025-06-14,Saturday,East,Chat,Complaint,Low,Agent_21,21.9,32.4,48,No,No,No,2
+T100582,2025-08-15,Friday,South,Portal,Technical Issue,Medium,Agent_24,18.8,23.5,24,No,No,Yes,3
+T100583,2025-09-22,Monday,East,Chat,Complaint,Low,Agent_06,14.7,30.9,48,No,No,No,4
+T100584,2025-09-17,Wednesday,West,Phone,Complaint,Low,Agent_19,23.3,39.3,48,No,No,Yes,3
+T100585,2025-04-09,Wednesday,South,Chat,Claim Status,Medium,Agent_02,21.7,30.1,24,Yes,No,Yes,3
+T100586,2025-07-04,Friday,South,Phone,Technical Issue,Medium,Agent_17,22.9,6.0,24,No,No,Yes,4
+T100587,2025-03-05,Wednesday,North,Phone,Technical Issue,Medium,Agent_20,16.5,8.4,24,No,No,Yes,5
+T100588,2025-08-31,Sunday,East,Phone,Policy Change,High,Agent_24,11.0,4.4,8,No,No,Yes,2
+T100589,2025-02-16,Sunday,East,Phone,Billing,High,Agent_06,10.6,8.5,8,Yes,No,Yes,2
+T100590,2025-04-20,Sunday,South,Chat,Refund Request,Low,Agent_07,21.1,46.7,48,No,No,Yes,3
+T100591,2025-07-29,Tuesday,North,Portal,Refund Request,Medium,Agent_01,18.0,30.9,24,Yes,No,Yes,1
+T100592,2025-03-09,Sunday,South,Chat,Billing,Low,Agent_08,6.9,59.8,48,Yes,No,Yes,1
+T100593,2025-06-06,Friday,East,Email,Technical Issue,Medium,Agent_12,49.3,16.3,24,No,No,No,2
+T100594,2025-04-22,Tuesday,West,Phone,Complaint,Medium,Agent_20,19.3,25.1,24,Yes,No,Yes,3
+T100595,2025-02-22,Saturday,North,Email,Refund Request,Medium,Agent_12,21.7,32.4,24,Yes,No,Yes,3
+T100596,2025-05-25,Sunday,East,Chat,Technical Issue,Medium,Agent_03,18.3,13.2,24,No,No,No,1
+T100597,2025-05-22,Thursday,East,Portal,Policy Change,High,Agent_21,28.4,5.9,8,No,No,Yes,3
+T100598,2025-06-02,Monday,South,Phone,Claim Status,High,Agent_02,18.9,13.9,8,Yes,Yes,Yes,1
+T100599,2025-07-26,Saturday,East,Chat,Refund Request,Medium,Agent_01,13.5,24.3,24,Yes,No,Yes,4
+T100600,2025-06-01,Sunday,East,Portal,Technical Issue,High,Agent_13,28.2,4.1,8,No,No,Yes,5
+T100601,2025-04-08,Tuesday,East,Chat,Claim Status,Medium,Agent_22,7.3,3.7,24,No,No,No,1
+T100602,2025-09-01,Monday,East,Email,Claim Status,High,Agent_22,32.2,7.5,8,No,Yes,No,1
+T100603,2025-05-31,Saturday,North,Email,Refund Request,High,Agent_09,32.1,8.3,8,Yes,No,No,2
+T100604,2025-04-04,Friday,East,Chat,Claim Status,Low,Agent_12,11.9,32.9,48,No,No,Yes,5
+T100605,2025-06-07,Saturday,West,Chat,Policy Change,Low,Agent_12,11.2,62.0,48,Yes,No,Yes,4
+T100606,2025-05-31,Saturday,West,Portal,Technical Issue,High,Agent_02,27.9,8.5,8,Yes,No,Yes,1
+T100607,2025-02-06,Thursday,West,Portal,Complaint,High,Agent_04,20.1,0.5,8,No,No,No,2
+T100608,2025-07-15,Tuesday,East,Email,Claim Status,Critical,Agent_05,25.1,3.7,4,No,Yes,No,3
+T100609,2025-07-29,Tuesday,West,Phone,Refund Request,High,Agent_06,12.5,4.0,8,No,No,Yes,4
+T100610,2025-09-07,Sunday,East,Chat,Claim Status,Medium,Agent_11,14.3,17.2,24,No,No,Yes,1
+T100611,2025-01-03,Friday,West,Phone,Claim Status,High,Agent_19,25.4,6.8,8,No,No,Yes,2
+T100612,2025-09-08,Monday,North,Phone,Technical Issue,Medium,Agent_21,22.7,0.5,24,No,No,Yes,5
+T100613,2025-08-08,Friday,West,Email,Billing,Low,Agent_18,24.8,70.7,48,Yes,No,Yes,1
+T100614,2025-07-11,Friday,North,Portal,Complaint,Low,Agent_07,19.9,34.2,48,No,No,No,2
+T100615,2025-01-03,Friday,South,Phone,Policy Change,Low,Agent_10,4.6,61.7,48,Yes,Yes,No,1
+T100616,2025-09-15,Monday,East,Phone,Billing,Critical,Agent_10,7.5,5.5,4,Yes,No,Yes,1
+T100617,2025-08-22,Friday,East,Email,Refund Request,Medium,Agent_05,31.4,33.7,24,Yes,No,No,1
+T100618,2025-09-08,Monday,East,Chat,Claim Status,Low,Agent_13,2.6,30.0,48,No,No,Yes,3
+T100619,2025-04-25,Friday,South,Phone,Billing,Medium,Agent_19,10.2,28.5,24,Yes,No,Yes,1
+T100620,2025-03-05,Wednesday,East,Chat,Billing,High,Agent_13,7.6,8.6,8,Yes,No,No,3
+T100621,2025-05-11,Sunday,North,Chat,Billing,Low,Agent_22,10.8,34.3,48,No,No,Yes,4
+T100622,2025-01-11,Saturday,North,Chat,Technical Issue,Medium,Agent_15,11.6,10.2,24,No,No,Yes,3
+T100623,2025-05-10,Saturday,West,Chat,Claim Status,Medium,Agent_23,8.6,30.8,24,Yes,No,Yes,2
+T100624,2025-01-05,Sunday,East,Email,Billing,Medium,Agent_22,24.1,23.1,24,No,No,No,1
+T100625,2025-03-12,Wednesday,West,Chat,Billing,High,Agent_17,10.3,16.7,8,Yes,Yes,No,1
+T100626,2025-05-25,Sunday,North,Chat,Technical Issue,Medium,Agent_07,23.0,43.2,24,Yes,No,No,3
+T100627,2025-05-15,Thursday,South,Email,Technical Issue,Low,Agent_10,35.0,17.1,48,No,No,No,4
+T100628,2025-09-12,Friday,South,Chat,Technical Issue,Low,Agent_11,17.8,31.3,48,No,No,No,3
+T100629,2025-01-07,Tuesday,North,Portal,Complaint,Medium,Agent_22,32.3,13.4,24,No,No,Yes,2
+T100630,2025-02-16,Sunday,North,Chat,Billing,Medium,Agent_09,5.3,0.5,24,No,No,Yes,3
+T100631,2025-08-22,Friday,East,Phone,Billing,High,Agent_04,13.9,1.7,8,No,No,No,2
+T100632,2025-01-21,Tuesday,East,Email,Refund Request,Medium,Agent_11,23.1,27.4,24,Yes,Yes,No,3
+T100633,2025-02-18,Tuesday,North,Phone,Claim Status,Medium,Agent_22,6.9,0.5,24,No,No,Yes,1
+T100634,2025-06-18,Wednesday,East,Portal,Complaint,High,Agent_09,25.5,5.4,8,No,No,Yes,5
+T100635,2025-02-17,Monday,East,Chat,Claim Status,Medium,Agent_04,12.3,46.7,24,Yes,Yes,No,1
+T100636,2025-05-20,Tuesday,West,Chat,Technical Issue,Medium,Agent_14,22.2,22.0,24,No,No,No,4
+T100637,2025-03-27,Thursday,North,Phone,Refund Request,Critical,Agent_02,20.7,6.6,4,Yes,Yes,Yes,4
+T100638,2025-02-23,Sunday,West,Portal,Technical Issue,Medium,Agent_19,21.3,21.5,24,No,No,Yes,2
+T100639,2025-04-03,Thursday,West,Chat,Complaint,High,Agent_01,17.2,10.1,8,Yes,No,Yes,4
+T100640,2025-03-08,Saturday,West,Portal,Billing,Medium,Agent_14,24.5,15.8,24,No,Yes,No,1
+T100641,2025-05-14,Wednesday,East,Phone,Refund Request,High,Agent_17,13.5,9.6,8,Yes,Yes,No,1
+T100642,2025-04-25,Friday,East,Email,Refund Request,Medium,Agent_23,42.2,5.5,24,No,No,Yes,3
+T100643,2025-08-10,Sunday,South,Email,Refund Request,Medium,Agent_22,29.8,15.5,24,No,No,Yes,4
+T100644,2025-03-18,Tuesday,North,Phone,Claim Status,High,Agent_17,10.0,12.5,8,Yes,Yes,No,1
+T100645,2025-03-26,Wednesday,North,Chat,Policy Change,Medium,Agent_08,9.8,27.5,24,Yes,No,Yes,1
+T100646,2025-05-23,Friday,North,Email,Complaint,Medium,Agent_21,45.1,26.6,24,Yes,No,No,1
+T100647,2025-05-01,Thursday,North,Email,Complaint,Low,Agent_15,36.0,22.0,48,No,No,No,5
+T100648,2025-09-13,Saturday,West,Phone,Technical Issue,Medium,Agent_24,13.2,11.5,24,No,No,No,2
+T100649,2025-02-22,Saturday,West,Email,Complaint,Low,Agent_18,36.8,0.5,48,No,No,No,4
+T100650,2025-02-16,Sunday,East,Portal,Complaint,Medium,Agent_07,30.7,16.6,24,No,No,No,3
+T100651,2025-08-22,Friday,East,Email,Billing,High,Agent_08,29.7,7.1,8,No,Yes,No,3
+T100652,2025-08-31,Sunday,East,Chat,Billing,High,Agent_04,18.8,5.6,8,No,No,Yes,2
+T100653,2025-04-24,Thursday,North,Phone,Refund Request,Medium,Agent_10,25.0,20.2,24,No,No,Yes,4
+T100654,2025-07-11,Friday,North,Phone,Claim Status,Low,Agent_16,16.5,23.3,48,No,No,No,2
+T100655,2025-07-29,Tuesday,North,Phone,Claim Status,Low,Agent_07,23.8,50.0,48,Yes,No,Yes,2
+T100656,2025-07-21,Monday,South,Email,Claim Status,Medium,Agent_23,31.2,18.1,24,No,No,Yes,1
+T100657,2025-08-01,Friday,North,Portal,Refund Request,Low,Agent_19,21.9,29.7,48,No,No,Yes,3
+T100658,2025-08-19,Tuesday,West,Chat,Complaint,Critical,Agent_05,15.0,2.6,4,No,No,No,3
+T100659,2025-01-03,Friday,North,Chat,Technical Issue,Medium,Agent_19,19.1,13.5,24,No,No,Yes,5
+T100660,2025-09-18,Thursday,South,Chat,Claim Status,High,Agent_24,14.2,6.2,8,No,No,Yes,5
+T100661,2025-02-23,Sunday,West,Chat,Complaint,Medium,Agent_11,20.3,24.7,24,Yes,No,Yes,4
+T100662,2025-07-16,Wednesday,West,Portal,Refund Request,Low,Agent_25,19.1,38.9,48,No,Yes,No,1
+T100663,2025-06-25,Wednesday,East,Email,Claim Status,Medium,Agent_05,32.6,19.8,24,No,No,Yes,2
+T100664,2025-09-20,Saturday,East,Chat,Complaint,High,Agent_11,18.1,0.6,8,No,No,Yes,4
+T100665,2025-04-22,Tuesday,South,Phone,Refund Request,Medium,Agent_10,23.2,0.5,24,No,No,Yes,4
+T100666,2025-03-09,Sunday,South,Email,Refund Request,Medium,Agent_21,34.4,10.6,24,No,No,Yes,4
+T100667,2025-03-01,Saturday,East,Chat,Complaint,Critical,Agent_19,16.8,7.3,4,Yes,Yes,No,1
+T100668,2025-08-02,Saturday,East,Portal,Technical Issue,Medium,Agent_01,26.0,11.4,24,No,No,Yes,2
+T100669,2025-01-13,Monday,West,Phone,Refund Request,Low,Agent_02,19.7,49.9,48,Yes,No,Yes,1
+T100670,2025-03-24,Monday,East,Chat,Claim Status,Medium,Agent_02,7.2,17.0,24,No,No,Yes,1
+T100671,2025-06-01,Sunday,South,Chat,Billing,High,Agent_12,10.6,5.5,8,No,No,Yes,5
+T100672,2025-02-22,Saturday,South,Chat,Complaint,Low,Agent_13,13.1,0.5,48,No,No,No,3
+T100673,2025-05-28,Wednesday,North,Portal,Technical Issue,Critical,Agent_14,23.9,1.1,4,No,No,No,2
+T100674,2025-06-10,Tuesday,North,Phone,Policy Change,Medium,Agent_07,17.8,3.3,24,No,No,Yes,4
+T100675,2025-08-15,Friday,South,Portal,Refund Request,Medium,Agent_23,25.5,46.7,24,Yes,Yes,No,1
+T100676,2025-04-11,Friday,South,Phone,Claim Status,Low,Agent_22,18.2,0.5,48,No,No,No,1
+T100677,2025-03-30,Sunday,North,Email,Technical Issue,Medium,Agent_09,34.3,4.8,24,No,No,Yes,4
+T100678,2025-03-08,Saturday,South,Chat,Policy Change,Medium,Agent_01,10.6,26.0,24,Yes,No,No,4
+T100679,2025-03-21,Friday,North,Phone,Policy Change,Low,Agent_20,13.5,19.9,48,No,No,No,5
+T100680,2025-06-04,Wednesday,West,Chat,Complaint,Low,Agent_12,26.8,72.7,48,Yes,No,No,2
+T100681,2025-06-12,Thursday,South,Portal,Complaint,High,Agent_03,31.2,2.8,8,No,No,Yes,4
+T100682,2025-03-23,Sunday,West,Email,Technical Issue,Medium,Agent_03,27.5,23.3,24,No,No,No,4
+T100683,2025-04-20,Sunday,East,Phone,Policy Change,Critical,Agent_07,20.7,4.8,4,Yes,No,Yes,1
+T100684,2025-09-01,Monday,North,Phone,Policy Change,Low,Agent_15,11.1,38.4,48,No,No,Yes,3
+T100685,2025-05-05,Monday,North,Chat,Policy Change,High,Agent_13,11.7,3.3,8,No,No,Yes,1
+T100686,2025-02-28,Friday,West,Phone,Refund Request,Low,Agent_10,20.7,52.8,48,Yes,No,Yes,1
+T100687,2025-09-22,Monday,East,Email,Complaint,Medium,Agent_15,36.8,18.4,24,No,No,No,2
+T100688,2025-06-01,Sunday,South,Phone,Billing,Low,Agent_04,9.0,12.3,48,No,No,Yes,1
+T100689,2025-01-04,Saturday,North,Phone,Refund Request,Low,Agent_25,24.7,30.2,48,No,No,Yes,1
+T100690,2025-08-06,Wednesday,North,Phone,Refund Request,High,Agent_24,13.1,7.8,8,No,No,Yes,5
+T100691,2025-02-06,Thursday,South,Phone,Refund Request,Low,Agent_11,18.2,16.4,48,No,No,Yes,1
+T100692,2025-02-07,Friday,North,Phone,Policy Change,Low,Agent_18,11.7,68.0,48,Yes,Yes,No,1
+T100693,2025-05-13,Tuesday,West,Email,Refund Request,Medium,Agent_13,31.4,3.1,24,No,No,No,2
+T100694,2025-01-09,Thursday,West,Chat,Complaint,Medium,Agent_01,24.6,8.9,24,No,No,Yes,1
+T100695,2025-02-02,Sunday,North,Chat,Billing,Critical,Agent_12,5.5,1.4,4,No,Yes,No,3
+T100696,2025-05-29,Thursday,East,Chat,Policy Change,Critical,Agent_25,21.0,5.5,4,Yes,No,Yes,3
+T100697,2025-07-15,Tuesday,West,Chat,Billing,Low,Agent_16,10.7,43.8,48,No,No,Yes,2
+T100698,2025-04-23,Wednesday,South,Chat,Complaint,Critical,Agent_10,28.7,2.0,4,No,No,Yes,4
+T100699,2025-03-15,Saturday,East,Chat,Refund Request,Medium,Agent_21,11.0,14.6,24,No,No,Yes,2
+T100700,2025-01-06,Monday,South,Phone,Billing,Medium,Agent_19,12.1,19.0,24,No,No,No,2
+T100701,2025-02-13,Thursday,East,Phone,Refund Request,Medium,Agent_24,11.5,19.7,24,No,No,Yes,2
+T100702,2025-07-31,Thursday,South,Phone,Claim Status,High,Agent_20,9.4,8.3,8,Yes,No,Yes,2
+T100703,2025-04-10,Thursday,North,Phone,Complaint,High,Agent_02,17.3,11.2,8,Yes,No,No,3
+T100704,2025-08-25,Monday,North,Phone,Billing,Low,Agent_09,8.0,53.0,48,Yes,No,Yes,1
+T100705,2025-09-07,Sunday,East,Email,Refund Request,Low,Agent_21,30.7,35.1,48,No,No,No,4
+T100706,2025-05-26,Monday,North,Portal,Policy Change,Medium,Agent_16,22.8,11.3,24,No,No,Yes,2
+T100707,2025-06-06,Friday,South,Chat,Policy Change,Critical,Agent_11,18.9,0.5,4,No,No,Yes,1
+T100708,2025-03-28,Friday,North,Phone,Claim Status,High,Agent_23,8.0,2.7,8,No,Yes,Yes,3
+T100709,2025-05-22,Thursday,East,Phone,Refund Request,High,Agent_11,12.4,6.2,8,No,No,Yes,3
+T100710,2025-08-25,Monday,West,Email,Policy Change,Medium,Agent_16,38.0,0.5,24,No,No,Yes,3
+T100711,2025-03-31,Monday,North,Chat,Claim Status,Low,Agent_18,12.4,35.4,48,No,No,Yes,3
+T100712,2025-02-09,Sunday,North,Portal,Complaint,Low,Agent_21,25.7,20.6,48,No,No,Yes,3
+T100713,2025-07-27,Sunday,South,Portal,Complaint,Medium,Agent_09,20.2,17.5,24,No,No,Yes,5
+T100714,2025-08-30,Saturday,South,Email,Claim Status,Medium,Agent_25,26.7,2.2,24,No,No,Yes,2
+T100715,2025-05-29,Thursday,South,Email,Complaint,Medium,Agent_03,25.5,13.7,24,No,Yes,Yes,2
+T100716,2025-01-06,Monday,South,Chat,Complaint,Low,Agent_22,11.5,36.0,48,No,No,No,1
+T100717,2025-09-21,Sunday,South,Email,Claim Status,Critical,Agent_19,19.7,4.4,4,Yes,No,No,2
+T100718,2025-03-16,Sunday,West,Portal,Billing,High,Agent_08,8.6,1.1,8,No,No,Yes,2
+T100719,2025-04-29,Tuesday,North,Phone,Claim Status,Medium,Agent_02,17.4,14.0,24,No,No,No,3
+T100720,2025-09-23,Tuesday,East,Email,Technical Issue,Low,Agent_02,30.2,8.6,48,No,No,No,3
+T100721,2025-06-15,Sunday,North,Chat,Complaint,High,Agent_21,15.4,8.5,8,Yes,No,Yes,4
+T100722,2025-05-15,Thursday,South,Email,Technical Issue,Medium,Agent_12,34.0,21.1,24,No,No,Yes,5
+T100723,2025-02-09,Sunday,East,Email,Claim Status,Medium,Agent_17,23.5,8.9,24,No,No,Yes,4
+T100724,2025-06-26,Thursday,West,Chat,Complaint,Medium,Agent_01,27.6,34.5,24,Yes,Yes,No,2
+T100725,2025-08-14,Thursday,South,Phone,Complaint,Low,Agent_21,27.2,59.4,48,Yes,No,No,1
+T100726,2025-03-18,Tuesday,South,Phone,Complaint,High,Agent_23,24.0,7.0,8,No,No,Yes,3
+T100727,2025-04-28,Monday,West,Chat,Refund Request,Medium,Agent_04,13.7,21.9,24,No,No,Yes,5
+T100728,2025-09-03,Wednesday,West,Phone,Claim Status,High,Agent_21,15.2,3.4,8,No,No,Yes,4
+T100729,2025-01-12,Sunday,South,Phone,Complaint,Low,Agent_19,22.5,4.5,48,No,No,Yes,3
+T100730,2025-09-20,Saturday,North,Portal,Claim Status,Low,Agent_02,14.6,12.2,48,No,No,Yes,4
+T100731,2025-04-03,Thursday,West,Chat,Complaint,Low,Agent_21,20.1,46.9,48,No,No,Yes,2
+T100732,2025-05-26,Monday,North,Phone,Complaint,High,Agent_16,20.9,5.3,8,No,No,Yes,2
+T100733,2025-03-29,Saturday,South,Chat,Complaint,High,Agent_05,17.5,6.5,8,No,No,Yes,2
+T100734,2025-04-04,Friday,East,Phone,Refund Request,Critical,Agent_11,15.0,2.4,4,No,No,Yes,2
+T100735,2025-02-05,Wednesday,South,Email,Claim Status,Low,Agent_04,28.7,57.0,48,Yes,No,Yes,3
+T100736,2025-09-25,Thursday,West,Chat,Complaint,Low,Agent_04,20.7,28.8,48,No,No,No,3
+T100737,2025-01-20,Monday,North,Phone,Refund Request,High,Agent_05,24.5,3.4,8,No,No,Yes,3
+T100738,2025-01-01,Wednesday,West,Email,Policy Change,Medium,Agent_02,30.4,22.4,24,No,No,Yes,3
+T100739,2025-08-08,Friday,South,Portal,Technical Issue,Medium,Agent_25,22.1,3.7,24,No,No,Yes,1
+T100740,2025-02-20,Thursday,West,Phone,Technical Issue,Low,Agent_25,22.2,11.5,48,No,No,Yes,1
+T100741,2025-02-12,Wednesday,East,Chat,Complaint,Low,Agent_14,17.4,27.1,48,No,No,No,2
+T100742,2025-01-03,Friday,North,Chat,Billing,Low,Agent_17,8.0,30.5,48,No,Yes,Yes,1
+T100743,2025-04-16,Wednesday,East,Email,Billing,Medium,Agent_05,19.3,20.1,24,No,No,Yes,5
+T100744,2025-05-10,Saturday,East,Portal,Technical Issue,Medium,Agent_19,22.4,19.4,24,No,No,Yes,2
+T100745,2025-05-22,Thursday,West,Chat,Technical Issue,High,Agent_18,16.3,12.7,8,Yes,Yes,Yes,1
+T100746,2025-04-02,Wednesday,East,Chat,Technical Issue,Critical,Agent_09,13.5,7.2,4,Yes,Yes,No,1
+T100747,2025-06-26,Thursday,West,Chat,Refund Request,High,Agent_04,15.7,5.4,8,No,No,Yes,3
+T100748,2025-08-17,Sunday,South,Phone,Complaint,High,Agent_13,29.8,6.9,8,No,No,Yes,4
+T100749,2025-01-27,Monday,South,Email,Refund Request,High,Agent_01,36.1,4.7,8,No,No,Yes,4
+T100750,2025-03-16,Sunday,West,Portal,Technical Issue,Low,Agent_03,22.4,16.4,48,No,No,No,2
+T100751,2025-04-24,Thursday,East,Phone,Billing,Medium,Agent_24,16.2,20.3,24,No,No,Yes,4
+T100752,2025-07-25,Friday,East,Chat,Complaint,Critical,Agent_02,21.5,9.2,4,Yes,Yes,Yes,4
+T100753,2025-09-11,Thursday,West,Phone,Refund Request,Low,Agent_17,14.0,42.4,48,No,No,Yes,4
+T100754,2025-01-18,Saturday,South,Chat,Refund Request,Medium,Agent_02,9.1,14.5,24,No,No,No,5
+T100755,2025-01-01,Wednesday,South,Phone,Policy Change,Medium,Agent_25,23.4,11.2,24,No,No,No,4
+T100756,2025-07-22,Tuesday,West,Chat,Complaint,High,Agent_01,14.0,3.2,8,No,No,Yes,1
+T100757,2025-02-05,Wednesday,North,Email,Refund Request,High,Agent_18,30.7,3.2,8,No,Yes,Yes,2
+T100758,2025-06-27,Friday,East,Phone,Claim Status,Critical,Agent_15,23.0,1.6,4,No,Yes,Yes,1
+T100759,2025-01-03,Friday,East,Phone,Complaint,Medium,Agent_04,23.2,0.8,24,No,Yes,Yes,1
+T100760,2025-05-31,Saturday,East,Portal,Complaint,High,Agent_09,30.3,6.3,8,No,No,Yes,2
+T100761,2025-05-09,Friday,West,Portal,Complaint,High,Agent_16,16.6,0.5,8,No,No,No,5
+T100762,2025-06-23,Monday,West,Chat,Complaint,Medium,Agent_01,10.6,18.7,24,No,Yes,Yes,1
+T100763,2025-02-04,Tuesday,West,Chat,Claim Status,High,Agent_22,4.7,6.1,8,No,No,Yes,1
+T100764,2025-06-11,Wednesday,West,Portal,Complaint,Low,Agent_18,30.9,45.8,48,No,No,No,4
+T100765,2025-05-15,Thursday,South,Phone,Technical Issue,High,Agent_22,17.7,8.5,8,Yes,No,No,1
+T100766,2025-06-25,Wednesday,North,Chat,Claim Status,Medium,Agent_16,16.4,16.3,24,No,No,Yes,2
+T100767,2025-04-22,Tuesday,East,Phone,Refund Request,Critical,Agent_22,20.8,1.3,4,No,Yes,Yes,2
+T100768,2025-09-13,Saturday,South,Phone,Claim Status,Low,Agent_09,14.6,0.5,48,No,No,Yes,4
+T100769,2025-04-14,Monday,South,Chat,Policy Change,High,Agent_05,15.4,4.6,8,No,No,No,4
+T100770,2025-03-03,Monday,North,Chat,Refund Request,Medium,Agent_16,17.4,27.4,24,Yes,No,Yes,1
+T100771,2025-01-22,Wednesday,West,Email,Policy Change,High,Agent_16,32.1,9.4,8,Yes,Yes,No,1
+T100772,2025-05-21,Wednesday,West,Phone,Complaint,Medium,Agent_09,25.6,0.5,24,No,No,Yes,2
+T100773,2025-03-07,Friday,North,Email,Technical Issue,Critical,Agent_16,32.1,6.5,4,Yes,Yes,No,3
+T100774,2025-09-15,Monday,East,Email,Refund Request,Low,Agent_25,34.4,47.1,48,No,No,Yes,1
+T100775,2025-03-03,Monday,West,Phone,Billing,Medium,Agent_01,13.9,27.4,24,Yes,No,Yes,4
+T100776,2025-07-14,Monday,North,Phone,Complaint,Low,Agent_09,17.6,19.9,48,No,No,No,4
+T100777,2025-05-15,Thursday,South,Phone,Complaint,Medium,Agent_11,27.8,4.8,24,No,No,Yes,4
+T100778,2025-09-13,Saturday,West,Phone,Refund Request,Medium,Agent_25,16.6,24.4,24,Yes,No,Yes,2
+T100779,2025-07-25,Friday,East,Email,Complaint,Critical,Agent_05,42.7,1.7,4,No,No,Yes,1
+T100780,2025-04-28,Monday,North,Chat,Claim Status,Medium,Agent_18,7.2,29.6,24,Yes,Yes,No,3
+T100781,2025-04-11,Friday,South,Chat,Refund Request,Medium,Agent_05,14.4,22.1,24,No,No,Yes,1
+T100782,2025-01-05,Sunday,South,Email,Claim Status,Medium,Agent_21,36.8,6.4,24,No,No,Yes,1
+T100783,2025-06-11,Wednesday,West,Phone,Complaint,Low,Agent_19,18.9,28.1,48,No,No,No,3
+T100784,2025-02-20,Thursday,South,Phone,Policy Change,High,Agent_16,23.3,5.9,8,No,No,Yes,1
+T100785,2025-02-19,Wednesday,West,Chat,Policy Change,Medium,Agent_12,13.7,0.5,24,No,No,Yes,4
+T100786,2025-05-12,Monday,East,Phone,Billing,High,Agent_12,6.2,14.8,8,Yes,Yes,No,1
+T100787,2025-04-12,Saturday,South,Portal,Policy Change,Medium,Agent_12,17.1,20.1,24,No,No,Yes,4
+T100788,2025-09-19,Friday,West,Chat,Technical Issue,Medium,Agent_03,17.6,15.2,24,No,No,No,4
+T100789,2025-05-27,Tuesday,West,Chat,Claim Status,Medium,Agent_06,23.4,7.1,24,No,No,Yes,4
+T100790,2025-06-22,Sunday,West,Chat,Complaint,High,Agent_13,25.2,14.2,8,Yes,No,Yes,4
+T100791,2025-02-06,Thursday,North,Phone,Claim Status,Medium,Agent_11,11.7,28.2,24,Yes,Yes,Yes,2
+T100792,2025-05-17,Saturday,West,Phone,Technical Issue,High,Agent_25,16.2,8.7,8,Yes,Yes,No,1
+T100793,2025-09-24,Wednesday,West,Email,Claim Status,Low,Agent_01,29.0,22.3,48,No,No,Yes,1
+T100794,2025-05-01,Thursday,East,Portal,Refund Request,Low,Agent_24,24.2,38.2,48,No,No,Yes,3
+T100795,2025-03-27,Thursday,West,Phone,Billing,Medium,Agent_16,17.1,24.0,24,No,No,No,5
+T100796,2025-01-14,Tuesday,West,Email,Billing,Low,Agent_04,19.9,57.2,48,Yes,No,Yes,1
+T100797,2025-03-21,Friday,North,Chat,Technical Issue,Low,Agent_10,11.0,54.5,48,Yes,No,Yes,4
+T100798,2025-05-26,Monday,West,Chat,Claim Status,High,Agent_17,14.1,2.5,8,No,No,Yes,5
+T100799,2025-01-15,Wednesday,North,Chat,Policy Change,Medium,Agent_16,15.4,0.5,24,No,No,Yes,1
+T100800,2025-05-20,Tuesday,West,Phone,Refund Request,Low,Agent_18,18.5,52.8,48,Yes,Yes,No,2
+T100801,2025-08-22,Friday,West,Email,Refund Request,Medium,Agent_18,40.0,14.9,24,No,Yes,No,1
+T100802,2025-09-04,Thursday,South,Chat,Technical Issue,Medium,Agent_10,13.8,20.7,24,No,No,Yes,1
+T100803,2025-05-14,Wednesday,South,Phone,Billing,High,Agent_17,19.3,11.4,8,Yes,No,Yes,1
+T100804,2025-03-11,Tuesday,East,Phone,Complaint,Medium,Agent_01,24.4,12.6,24,No,Yes,No,1
+T100805,2025-09-02,Tuesday,East,Phone,Technical Issue,Medium,Agent_10,16.2,22.9,24,No,Yes,No,4
+T100806,2025-07-11,Friday,South,Email,Complaint,Medium,Agent_14,30.9,17.6,24,No,No,No,2
+T100807,2025-03-25,Tuesday,West,Chat,Claim Status,Low,Agent_09,18.3,36.8,48,No,No,Yes,2
+T100808,2025-05-03,Saturday,East,Phone,Refund Request,High,Agent_18,18.4,0.5,8,No,No,Yes,2
+T100809,2025-07-31,Thursday,South,Portal,Claim Status,Low,Agent_05,24.5,41.9,48,No,No,Yes,5
+T100810,2025-08-22,Friday,West,Phone,Complaint,Low,Agent_16,24.2,0.5,48,No,No,No,1
+T100811,2025-01-10,Friday,South,Phone,Complaint,Low,Agent_01,24.6,58.2,48,Yes,No,No,3
+T100812,2025-02-22,Saturday,East,Phone,Refund Request,High,Agent_15,14.1,8.3,8,Yes,No,Yes,3
+T100813,2025-04-30,Wednesday,North,Phone,Technical Issue,Medium,Agent_07,18.9,14.3,24,No,No,No,2
+T100814,2025-06-09,Monday,West,Portal,Technical Issue,High,Agent_23,20.0,5.4,8,No,No,No,2
+T100815,2025-06-19,Thursday,North,Chat,Claim Status,Low,Agent_02,13.1,0.8,48,No,Yes,Yes,1
+T100816,2025-02-06,Thursday,West,Phone,Policy Change,High,Agent_13,20.3,9.9,8,Yes,No,No,3
+T100817,2025-03-04,Tuesday,South,Email,Technical Issue,High,Agent_08,31.8,5.5,8,No,No,Yes,5
+T100818,2025-01-18,Saturday,South,Email,Billing,Medium,Agent_17,32.0,22.1,24,No,No,Yes,2
+T100819,2025-04-17,Thursday,West,Email,Policy Change,Low,Agent_11,30.4,18.1,48,No,No,Yes,4
+T100820,2025-01-22,Wednesday,North,Phone,Refund Request,Low,Agent_10,19.8,5.8,48,No,No,No,5
+T100821,2025-01-27,Monday,South,Portal,Claim Status,Medium,Agent_21,7.1,13.5,24,No,No,Yes,4
+T100822,2025-01-08,Wednesday,South,Chat,Complaint,Medium,Agent_04,24.3,43.2,24,Yes,No,Yes,4
+T100823,2025-05-05,Monday,North,Portal,Complaint,Medium,Agent_23,28.0,21.8,24,No,No,Yes,4
+T100824,2025-03-21,Friday,East,Chat,Claim Status,Medium,Agent_06,10.6,39.5,24,Yes,Yes,Yes,1
+T100825,2025-06-23,Monday,North,Phone,Refund Request,High,Agent_05,20.2,8.0,8,No,No,Yes,3
+T100826,2025-02-24,Monday,South,Email,Policy Change,High,Agent_18,36.5,13.7,8,Yes,Yes,No,1
+T100827,2025-08-13,Wednesday,South,Phone,Technical Issue,High,Agent_12,16.1,9.5,8,Yes,Yes,No,1
+T100828,2025-01-21,Tuesday,West,Chat,Complaint,Medium,Agent_10,24.7,9.8,24,No,No,No,4
+T100829,2025-09-08,Monday,South,Chat,Complaint,Medium,Agent_12,13.9,19.0,24,No,Yes,No,4
+T100830,2025-05-21,Wednesday,South,Phone,Claim Status,Low,Agent_15,14.4,29.5,48,No,No,Yes,2
+T100831,2025-05-15,Thursday,East,Email,Refund Request,Medium,Agent_17,25.3,18.8,24,No,No,Yes,5
+T100832,2025-04-05,Saturday,North,Chat,Policy Change,Medium,Agent_25,10.5,4.2,24,No,No,No,5
+T100833,2025-06-14,Saturday,North,Chat,Complaint,Low,Agent_13,19.6,34.5,48,No,No,Yes,1
+T100834,2025-09-12,Friday,South,Chat,Policy Change,Medium,Agent_14,16.6,16.2,24,No,No,Yes,2
+T100835,2025-02-26,Wednesday,North,Email,Billing,High,Agent_02,22.0,8.2,8,Yes,No,Yes,3
+T100836,2025-03-08,Saturday,South,Portal,Claim Status,Medium,Agent_04,20.7,31.2,24,Yes,Yes,No,1
+T100837,2025-01-17,Friday,West,Chat,Complaint,High,Agent_20,16.2,12.2,8,Yes,No,No,3
+T100838,2025-05-12,Monday,North,Email,Complaint,Low,Agent_23,30.2,103.8,48,Yes,Yes,Yes,4
+T100839,2025-09-09,Tuesday,North,Email,Refund Request,Medium,Agent_02,24.8,15.0,24,No,No,Yes,3
+T100840,2025-08-01,Friday,East,Chat,Billing,Low,Agent_20,8.0,73.3,48,Yes,No,Yes,2
+T100841,2025-01-21,Tuesday,North,Chat,Billing,Critical,Agent_07,2.8,1.6,4,No,No,Yes,3
+T100842,2025-02-19,Wednesday,North,Chat,Complaint,Low,Agent_13,12.0,40.1,48,No,No,Yes,2
+T100843,2025-09-27,Saturday,South,Chat,Claim Status,High,Agent_18,10.0,5.5,8,No,No,Yes,5
+T100844,2025-08-01,Friday,North,Chat,Complaint,Medium,Agent_12,25.9,19.8,24,No,No,No,5
+T100845,2025-08-07,Thursday,North,Phone,Claim Status,Medium,Agent_18,6.7,11.0,24,No,No,Yes,4
+T100846,2025-06-22,Sunday,South,Email,Complaint,Critical,Agent_15,25.8,4.8,4,Yes,Yes,No,1
+T100847,2025-06-16,Monday,East,Email,Refund Request,High,Agent_14,28.4,5.0,8,No,No,Yes,3
+T100848,2025-06-15,Sunday,South,Chat,Claim Status,High,Agent_13,12.4,2.3,8,No,Yes,No,1
+T100849,2025-05-11,Sunday,East,Portal,Technical Issue,Low,Agent_13,18.6,27.3,48,No,No,No,1
+T100850,2025-01-18,Saturday,East,Chat,Complaint,Critical,Agent_05,23.7,3.1,4,No,No,No,3
+T100851,2025-06-04,Wednesday,North,Phone,Claim Status,High,Agent_07,8.3,8.3,8,Yes,No,Yes,1
+T100852,2025-01-12,Sunday,East,Portal,Complaint,Medium,Agent_18,20.8,10.7,24,No,No,Yes,5
+T100853,2025-03-21,Friday,North,Phone,Policy Change,Low,Agent_05,26.0,105.4,48,Yes,Yes,No,1
+T100854,2025-05-08,Thursday,South,Phone,Policy Change,Medium,Agent_03,10.6,17.7,24,No,No,Yes,1
+T100855,2025-04-22,Tuesday,North,Chat,Technical Issue,Medium,Agent_06,9.1,31.0,24,Yes,No,Yes,1
+T100856,2025-02-18,Tuesday,East,Phone,Complaint,Low,Agent_13,33.5,5.2,48,No,No,No,5
+T100857,2025-01-29,Wednesday,East,Phone,Technical Issue,Critical,Agent_14,18.0,2.3,4,No,No,Yes,1
+T100858,2025-03-03,Monday,South,Chat,Complaint,Medium,Agent_01,17.0,3.7,24,No,No,No,1
+T100859,2025-07-15,Tuesday,North,Phone,Billing,Medium,Agent_11,8.1,27.2,24,Yes,No,Yes,4
+T100860,2025-03-18,Tuesday,East,Email,Claim Status,Low,Agent_05,28.1,41.2,48,No,No,Yes,1
+T100861,2025-07-21,Monday,West,Chat,Complaint,Low,Agent_17,16.8,26.0,48,No,Yes,Yes,1
+T100862,2025-05-29,Thursday,West,Phone,Policy Change,Medium,Agent_03,20.7,32.4,24,Yes,No,Yes,1
+T100863,2025-01-26,Sunday,West,Phone,Technical Issue,Medium,Agent_17,18.1,12.5,24,No,No,No,3
+T100864,2025-03-08,Saturday,South,Email,Claim Status,Medium,Agent_16,29.1,14.6,24,No,No,Yes,1
+T100865,2025-04-11,Friday,South,Phone,Policy Change,Medium,Agent_25,24.7,10.1,24,No,No,No,1
+T100866,2025-02-15,Saturday,North,Chat,Technical Issue,Medium,Agent_12,23.2,48.1,24,Yes,Yes,No,1
+T100867,2025-06-26,Thursday,North,Chat,Claim Status,Medium,Agent_12,8.9,6.1,24,No,No,No,5
+T100868,2025-08-15,Friday,South,Email,Claim Status,Medium,Agent_07,26.2,20.9,24,No,No,No,5
+T100869,2025-03-21,Friday,North,Phone,Billing,Critical,Agent_08,10.0,2.6,4,No,No,Yes,3
+T100870,2025-03-17,Monday,East,Phone,Refund Request,Medium,Agent_04,15.0,24.2,24,Yes,Yes,Yes,1
+T100871,2025-01-12,Sunday,East,Phone,Complaint,Low,Agent_07,21.4,40.1,48,No,No,No,3
+T100872,2025-09-25,Thursday,East,Email,Complaint,Critical,Agent_24,34.3,3.3,4,No,No,Yes,1
+T100873,2025-01-10,Friday,West,Chat,Refund Request,Low,Agent_17,10.2,37.0,48,No,No,Yes,3
+T100874,2025-03-29,Saturday,North,Phone,Refund Request,Low,Agent_20,16.0,68.3,48,Yes,No,Yes,1
+T100875,2025-08-27,Wednesday,North,Phone,Refund Request,Medium,Agent_09,19.7,26.2,24,Yes,No,Yes,4
+T100876,2025-07-04,Friday,North,Phone,Refund Request,Low,Agent_13,29.4,38.7,48,No,No,No,3
+T100877,2025-07-14,Monday,North,Portal,Technical Issue,Medium,Agent_20,20.0,19.8,24,No,No,No,5
+T100878,2025-04-06,Sunday,South,Email,Technical Issue,Critical,Agent_18,29.1,2.1,4,No,No,Yes,2
+T100879,2025-01-12,Sunday,North,Phone,Complaint,Medium,Agent_10,27.3,30.7,24,Yes,No,Yes,4
+T100880,2025-07-21,Monday,South,Phone,Refund Request,Medium,Agent_12,22.0,9.8,24,No,No,Yes,4
+T100881,2025-06-04,Wednesday,South,Portal,Complaint,High,Agent_09,27.1,5.7,8,No,No,Yes,1
+T100882,2025-05-12,Monday,West,Portal,Billing,Critical,Agent_18,13.2,3.5,4,No,Yes,Yes,5
+T100883,2025-03-19,Wednesday,East,Portal,Refund Request,Low,Agent_05,16.6,31.1,48,No,No,Yes,5
+T100884,2025-07-15,Tuesday,South,Email,Complaint,Medium,Agent_05,40.0,33.2,24,Yes,No,Yes,4
+T100885,2025-06-09,Monday,East,Email,Claim Status,Medium,Agent_07,31.2,40.4,24,Yes,Yes,Yes,1
+T100886,2025-04-14,Monday,South,Phone,Refund Request,High,Agent_17,18.0,7.3,8,No,No,Yes,1
+T100887,2025-08-09,Saturday,South,Chat,Complaint,Medium,Agent_06,23.0,15.6,24,No,No,Yes,1
+T100888,2025-03-02,Sunday,South,Phone,Claim Status,Low,Agent_24,9.0,41.2,48,No,Yes,No,1
+T100889,2025-07-31,Thursday,West,Phone,Refund Request,Critical,Agent_21,17.7,2.3,4,No,No,Yes,4
+T100890,2025-05-21,Wednesday,South,Chat,Billing,Low,Agent_05,2.0,37.0,48,No,No,Yes,4
+T100891,2025-05-17,Saturday,South,Chat,Claim Status,Low,Agent_22,16.9,17.8,48,No,No,Yes,2
+T100892,2025-02-10,Monday,West,Phone,Complaint,High,Agent_16,21.5,4.1,8,No,No,Yes,5
+T100893,2025-07-11,Friday,South,Portal,Technical Issue,Low,Agent_16,27.8,44.5,48,No,No,No,3
+T100894,2025-04-09,Wednesday,South,Phone,Billing,Critical,Agent_09,12.2,3.2,4,No,Yes,No,2
+T100895,2025-04-14,Monday,South,Phone,Technical Issue,Medium,Agent_20,21.2,1.2,24,No,No,No,3
+T100896,2025-06-16,Monday,West,Portal,Technical Issue,High,Agent_13,24.3,0.5,8,No,No,Yes,2
+T100897,2025-07-14,Monday,East,Email,Refund Request,Medium,Agent_19,33.3,11.5,24,No,No,No,1
+T100898,2025-09-26,Friday,North,Email,Technical Issue,High,Agent_15,26.3,6.1,8,No,No,Yes,4
+T100899,2025-01-22,Wednesday,South,Email,Technical Issue,Low,Agent_24,23.8,10.0,48,No,No,No,5
+T100900,2025-07-18,Friday,North,Phone,Technical Issue,High,Agent_13,21.3,11.0,8,Yes,No,Yes,1
+T100901,2025-05-27,Tuesday,West,Phone,Policy Change,High,Agent_20,12.7,2.2,8,No,No,Yes,3
+T100902,2025-09-22,Monday,South,Email,Refund Request,Low,Agent_15,25.5,63.6,48,Yes,Yes,No,2
+T100903,2025-02-27,Thursday,South,Chat,Refund Request,Low,Agent_18,22.5,30.4,48,No,No,Yes,2
+T100904,2025-07-31,Thursday,East,Email,Claim Status,Medium,Agent_15,36.8,17.5,24,No,No,No,1
+T100905,2025-04-14,Monday,West,Phone,Policy Change,Medium,Agent_23,18.4,40.7,24,Yes,No,No,2
+T100906,2025-03-25,Tuesday,North,Phone,Refund Request,Medium,Agent_15,12.3,22.7,24,No,No,No,1
+T100907,2025-02-13,Thursday,West,Chat,Complaint,Critical,Agent_20,14.0,3.5,4,No,No,Yes,2
+T100908,2025-07-13,Sunday,West,Phone,Claim Status,Medium,Agent_11,12.9,11.5,24,No,No,Yes,4
+T100909,2025-03-18,Tuesday,South,Portal,Claim Status,High,Agent_25,23.0,11.3,8,Yes,Yes,No,1
+T100910,2025-06-07,Saturday,East,Chat,Technical Issue,Medium,Agent_10,15.0,19.4,24,No,No,Yes,5
+T100911,2025-03-02,Sunday,South,Portal,Billing,High,Agent_20,21.0,0.9,8,No,No,Yes,1
+T100912,2025-01-07,Tuesday,West,Email,Technical Issue,High,Agent_18,41.3,6.3,8,No,No,No,3
+T100913,2025-09-10,Wednesday,South,Phone,Refund Request,Medium,Agent_16,16.0,11.7,24,No,No,Yes,2
+T100914,2025-08-15,Friday,North,Chat,Billing,High,Agent_08,10.5,2.1,8,No,No,Yes,1
+T100915,2025-05-23,Friday,South,Phone,Claim Status,Medium,Agent_02,18.3,16.1,24,No,No,Yes,4
+T100916,2025-01-19,Sunday,South,Portal,Refund Request,High,Agent_19,28.0,8.3,8,Yes,No,No,1
+T100917,2025-06-02,Monday,East,Portal,Billing,Medium,Agent_04,14.4,3.5,24,No,No,Yes,2
+T100918,2025-04-02,Wednesday,South,Chat,Complaint,Medium,Agent_22,17.4,24.5,24,Yes,No,Yes,1
+T100919,2025-04-01,Tuesday,West,Chat,Policy Change,Low,Agent_02,13.2,30.7,48,No,No,Yes,1
+T100920,2025-06-03,Tuesday,East,Email,Technical Issue,High,Agent_03,30.3,4.8,8,No,No,Yes,1
+T100921,2025-02-03,Monday,East,Email,Billing,High,Agent_23,28.6,3.7,8,No,No,Yes,2
+T100922,2025-06-18,Wednesday,West,Email,Refund Request,Medium,Agent_07,31.6,32.7,24,Yes,No,Yes,4
+T100923,2025-02-25,Tuesday,North,Email,Refund Request,Critical,Agent_20,31.8,6.0,4,Yes,Yes,No,1
+T100924,2025-05-28,Wednesday,West,Chat,Policy Change,Medium,Agent_09,21.6,10.5,24,No,No,No,4
+T100925,2025-07-01,Tuesday,South,Chat,Technical Issue,High,Agent_17,25.4,18.0,8,Yes,Yes,No,1
+T100926,2025-09-10,Wednesday,South,Portal,Claim Status,Low,Agent_23,11.3,29.8,48,No,No,No,1
+T100927,2025-04-10,Thursday,North,Phone,Technical Issue,High,Agent_21,14.5,8.4,8,Yes,No,No,2
+T100928,2025-04-17,Thursday,West,Email,Policy Change,Medium,Agent_12,34.5,14.4,24,No,No,Yes,1
+T100929,2025-04-19,Saturday,North,Chat,Refund Request,Low,Agent_10,19.6,15.6,48,No,No,No,4
+T100930,2025-02-04,Tuesday,East,Phone,Complaint,High,Agent_11,24.3,9.8,8,Yes,No,Yes,4
+T100931,2025-02-28,Friday,East,Phone,Refund Request,Medium,Agent_19,15.2,51.8,24,Yes,Yes,Yes,1
+T100932,2025-03-31,Monday,South,Phone,Policy Change,Medium,Agent_22,12.8,39.8,24,Yes,No,Yes,1
+T100933,2025-08-31,Sunday,North,Chat,Technical Issue,Medium,Agent_05,15.3,14.4,24,No,No,Yes,1
+T100934,2025-06-21,Saturday,West,Chat,Technical Issue,Low,Agent_24,9.5,31.8,48,No,No,No,3
+T100935,2025-09-24,Wednesday,East,Chat,Refund Request,Medium,Agent_11,20.1,21.2,24,No,No,No,1
+T100936,2025-01-10,Friday,South,Chat,Policy Change,Low,Agent_12,9.9,49.9,48,Yes,No,Yes,3
+T100937,2025-03-18,Tuesday,East,Chat,Policy Change,Medium,Agent_13,11.9,25.3,24,Yes,Yes,Yes,4
+T100938,2025-07-19,Saturday,South,Chat,Policy Change,High,Agent_23,19.8,7.1,8,No,No,Yes,3
+T100939,2025-01-17,Friday,East,Email,Technical Issue,Medium,Agent_08,32.9,23.7,24,No,No,No,3
+T100940,2025-06-04,Wednesday,South,Email,Claim Status,Medium,Agent_04,35.2,6.4,24,No,Yes,No,2
+T100941,2025-04-14,Monday,North,Email,Billing,High,Agent_16,30.0,3.8,8,No,No,Yes,3
+T100942,2025-03-20,Thursday,South,Phone,Technical Issue,High,Agent_24,24.3,7.1,8,No,Yes,No,2
+T100943,2025-06-17,Tuesday,South,Chat,Billing,Medium,Agent_17,3.2,25.7,24,Yes,No,Yes,4
+T100944,2025-03-09,Sunday,South,Chat,Technical Issue,High,Agent_13,27.9,7.4,8,No,No,Yes,5
+T100945,2025-09-25,Thursday,North,Phone,Billing,High,Agent_22,15.4,7.2,8,No,No,No,5
+T100946,2025-02-14,Friday,East,Email,Billing,Medium,Agent_04,27.9,16.0,24,No,No,No,4
+T100947,2025-06-09,Monday,North,Chat,Policy Change,High,Agent_21,15.4,2.7,8,No,No,Yes,3
+T100948,2025-06-14,Saturday,South,Phone,Policy Change,Medium,Agent_18,19.6,0.5,24,No,No,Yes,5
+T100949,2025-08-14,Thursday,North,Phone,Claim Status,Low,Agent_09,21.2,53.0,48,Yes,No,Yes,2
+T100950,2025-09-21,Sunday,North,Phone,Policy Change,Medium,Agent_18,18.4,18.0,24,No,No,Yes,3
+T100951,2025-03-14,Friday,East,Chat,Claim Status,Medium,Agent_03,10.8,16.7,24,No,No,Yes,2
+T100952,2025-06-23,Monday,West,Phone,Billing,High,Agent_16,13.2,0.8,8,No,Yes,No,4
+T100953,2025-02-24,Monday,West,Phone,Technical Issue,Low,Agent_13,19.4,17.7,48,No,No,Yes,5
+T100954,2025-08-17,Sunday,East,Phone,Claim Status,High,Agent_23,14.2,10.5,8,Yes,Yes,No,1
+T100955,2025-02-10,Monday,West,Chat,Billing,Medium,Agent_23,14.9,13.7,24,No,Yes,No,3
+T100956,2025-06-08,Sunday,West,Email,Claim Status,High,Agent_05,29.7,6.4,8,No,Yes,Yes,3
+T100957,2025-05-13,Tuesday,East,Email,Refund Request,Medium,Agent_22,42.0,20.4,24,No,No,Yes,3
+T100958,2025-06-16,Monday,West,Email,Billing,Low,Agent_16,28.5,48.8,48,Yes,No,No,1
+T100959,2025-09-03,Wednesday,West,Chat,Policy Change,Medium,Agent_25,15.1,3.3,24,No,No,Yes,2
+T100960,2025-03-07,Friday,North,Email,Refund Request,Medium,Agent_04,37.2,15.2,24,No,No,Yes,5
+T100961,2025-02-06,Thursday,East,Email,Technical Issue,Medium,Agent_19,34.9,33.6,24,Yes,No,Yes,1
+T100962,2025-05-05,Monday,South,Portal,Technical Issue,Medium,Agent_03,30.9,2.9,24,No,No,Yes,2
+T100963,2025-08-09,Saturday,West,Chat,Policy Change,Medium,Agent_18,8.8,9.6,24,No,Yes,Yes,2
+T100964,2025-02-09,Sunday,West,Phone,Complaint,Medium,Agent_15,22.9,27.0,24,Yes,No,Yes,1
+T100965,2025-02-19,Wednesday,West,Phone,Technical Issue,Medium,Agent_03,24.3,3.2,24,No,No,Yes,3
+T100966,2025-07-14,Monday,East,Email,Refund Request,Low,Agent_02,25.2,11.4,48,No,No,Yes,2
+T100967,2025-03-13,Thursday,North,Chat,Refund Request,Medium,Agent_05,15.0,24.2,24,Yes,No,Yes,4
+T100968,2025-05-30,Friday,West,Chat,Technical Issue,Low,Agent_07,17.4,7.1,48,No,Yes,No,1
+T100969,2025-06-03,Tuesday,East,Portal,Technical Issue,Critical,Agent_23,29.9,0.8,4,No,Yes,No,1
+T100970,2025-02-15,Saturday,North,Chat,Complaint,High,Agent_13,16.9,13.8,8,Yes,Yes,No,1
+T100971,2025-02-01,Saturday,East,Portal,Billing,High,Agent_01,19.8,4.8,8,No,No,No,5
+T100972,2025-07-03,Thursday,North,Portal,Billing,Medium,Agent_08,10.4,5.9,24,No,No,Yes,4
+T100973,2025-07-21,Monday,East,Chat,Technical Issue,Medium,Agent_13,11.1,43.1,24,Yes,Yes,No,1
+T100974,2025-03-30,Sunday,West,Phone,Complaint,High,Agent_13,25.3,2.4,8,No,No,No,5
+T100975,2025-07-04,Friday,West,Phone,Refund Request,Low,Agent_05,11.1,31.6,48,No,No,Yes,3
+T100976,2025-02-06,Thursday,North,Phone,Technical Issue,Medium,Agent_22,23.2,10.1,24,No,No,Yes,5
+T100977,2025-03-11,Tuesday,North,Phone,Technical Issue,High,Agent_15,12.4,4.4,8,No,Yes,No,3
+T100978,2025-08-06,Wednesday,South,Email,Technical Issue,High,Agent_18,32.0,8.0,8,Yes,No,Yes,1
+T100979,2025-07-16,Wednesday,East,Phone,Technical Issue,Low,Agent_20,14.5,60.9,48,Yes,No,Yes,1
+T100980,2025-09-13,Saturday,South,Chat,Policy Change,Critical,Agent_14,17.8,0.8,4,No,No,No,3
+T100981,2025-07-07,Monday,North,Portal,Complaint,High,Agent_16,28.2,13.1,8,Yes,Yes,No,2
+T100982,2025-09-04,Thursday,North,Phone,Refund Request,Critical,Agent_17,12.0,0.8,4,No,Yes,No,1
+T100983,2025-08-27,Wednesday,North,Email,Complaint,Low,Agent_03,34.0,38.1,48,No,No,Yes,2
+T100984,2025-02-09,Sunday,East,Chat,Policy Change,High,Agent_18,12.1,10.1,8,Yes,No,Yes,3
+T100985,2025-08-29,Friday,West,Email,Technical Issue,High,Agent_19,31.8,0.5,8,No,No,Yes,3
+T100986,2025-08-04,Monday,East,Portal,Policy Change,Low,Agent_10,21.6,21.4,48,No,No,Yes,1
+T100987,2025-06-05,Thursday,East,Phone,Technical Issue,Low,Agent_19,25.5,35.3,48,No,Yes,No,4
+T100988,2025-05-30,Friday,North,Phone,Billing,Medium,Agent_05,10.8,16.8,24,No,No,Yes,3
+T100989,2025-05-23,Friday,East,Phone,Policy Change,High,Agent_09,23.8,5.8,8,No,No,Yes,1
+T100990,2025-01-08,Wednesday,North,Chat,Complaint,Low,Agent_24,20.9,39.6,48,No,No,Yes,4
+T100991,2025-08-17,Sunday,East,Chat,Policy Change,Low,Agent_23,23.1,30.6,48,No,No,No,2
+T100992,2025-04-03,Thursday,North,Phone,Billing,Medium,Agent_05,8.2,16.5,24,No,No,Yes,4
+T100993,2025-03-20,Thursday,West,Chat,Technical Issue,Medium,Agent_25,19.6,12.2,24,No,No,Yes,4
+T100994,2025-08-14,Thursday,South,Phone,Refund Request,Low,Agent_12,12.7,2.1,48,No,No,No,3
+T100995,2025-05-16,Friday,North,Phone,Technical Issue,Medium,Agent_13,15.2,11.0,24,No,No,Yes,4
+T100996,2025-09-01,Monday,South,Email,Refund Request,Medium,Agent_13,35.7,20.1,24,No,Yes,Yes,1
+T100997,2025-08-11,Monday,North,Phone,Technical Issue,Medium,Agent_13,29.1,13.5,24,No,No,Yes,1
+T100998,2025-01-22,Wednesday,North,Portal,Refund Request,Critical,Agent_12,15.1,7.0,4,Yes,Yes,Yes,1
+T100999,2025-05-20,Tuesday,East,Phone,Billing,Medium,Agent_09,10.2,4.6,24,No,No,Yes,3
+T101000,2025-07-20,Sunday,West,Chat,Refund Request,High,Agent_08,16.0,6.4,8,No,No,Yes,2
+T101001,2025-04-10,Thursday,East,Chat,Claim Status,Medium,Agent_11,13.3,0.8,24,No,No,Yes,3
+T101002,2025-01-05,Sunday,North,Phone,Billing,Low,Agent_17,15.4,37.1,48,No,No,Yes,4
+T101003,2025-08-17,Sunday,East,Phone,Policy Change,Low,Agent_09,22.9,35.9,48,No,No,Yes,1
+T101004,2025-01-13,Monday,North,Phone,Complaint,High,Agent_22,18.6,0.6,8,No,No,Yes,5
+T101005,2025-04-22,Tuesday,North,Chat,Billing,High,Agent_03,3.8,0.5,8,No,No,Yes,5
+T101006,2025-03-08,Saturday,West,Chat,Refund Request,High,Agent_19,9.7,3.2,8,No,Yes,Yes,3
+T101007,2025-02-26,Wednesday,South,Phone,Technical Issue,Critical,Agent_22,16.0,0.8,4,No,No,No,3
+T101008,2025-08-21,Thursday,East,Chat,Refund Request,High,Agent_22,12.4,5.7,8,No,No,Yes,4
+T101009,2025-06-15,Sunday,East,Phone,Billing,High,Agent_09,8.0,7.8,8,No,No,No,1
+T101010,2025-07-15,Tuesday,West,Phone,Billing,Critical,Agent_09,11.6,4.1,4,Yes,Yes,Yes,1
+T101011,2025-04-02,Wednesday,West,Phone,Claim Status,Medium,Agent_20,22.4,10.9,24,No,No,Yes,4
+T101012,2025-09-09,Tuesday,North,Phone,Technical Issue,Medium,Agent_07,20.9,0.5,24,No,No,Yes,4
+T101013,2025-02-24,Monday,West,Chat,Billing,Low,Agent_02,5.2,19.8,48,No,No,Yes,3
+T101014,2025-05-09,Friday,West,Phone,Technical Issue,Medium,Agent_05,17.6,12.3,24,No,No,No,3
+T101015,2025-01-01,Wednesday,North,Chat,Policy Change,High,Agent_05,19.9,9.8,8,Yes,No,Yes,1
+T101016,2025-07-20,Sunday,North,Email,Technical Issue,Medium,Agent_16,29.2,14.5,24,No,No,Yes,3
+T101017,2025-02-05,Wednesday,South,Phone,Refund Request,Medium,Agent_25,13.8,20.4,24,No,No,Yes,4
+T101018,2025-07-03,Thursday,East,Chat,Technical Issue,Medium,Agent_02,21.4,21.6,24,No,No,No,2
+T101019,2025-02-16,Sunday,East,Email,Policy Change,High,Agent_03,40.8,6.5,8,No,No,Yes,4
+T101020,2025-05-29,Thursday,South,Phone,Billing,Medium,Agent_13,10.6,19.1,24,No,No,Yes,2
+T101021,2025-06-03,Tuesday,West,Portal,Refund Request,Medium,Agent_23,15.0,11.2,24,No,No,No,2
+T101022,2025-02-13,Thursday,West,Chat,Claim Status,Low,Agent_02,13.6,62.7,48,Yes,No,Yes,1
+T101023,2025-05-03,Saturday,West,Email,Complaint,Medium,Agent_21,38.8,50.4,24,Yes,Yes,No,1
+T101024,2025-08-19,Tuesday,North,Phone,Billing,High,Agent_11,19.5,7.5,8,No,No,No,2
+T101025,2025-01-22,Wednesday,West,Phone,Refund Request,Medium,Agent_22,8.4,9.6,24,No,No,Yes,3
+T101026,2025-03-18,Tuesday,South,Portal,Billing,Low,Agent_24,21.0,4.3,48,No,No,Yes,1
+T101027,2025-01-10,Friday,West,Portal,Complaint,Low,Agent_02,29.5,18.3,48,No,No,Yes,5
+T101028,2025-03-08,Saturday,North,Phone,Billing,High,Agent_10,5.5,0.5,8,No,No,No,3
+T101029,2025-02-19,Wednesday,West,Chat,Complaint,High,Agent_03,9.9,4.0,8,No,No,Yes,4
+T101030,2025-02-24,Monday,North,Email,Complaint,Low,Agent_08,30.7,30.9,48,No,No,Yes,1
+T101031,2025-04-14,Monday,West,Phone,Refund Request,Medium,Agent_22,14.2,10.5,24,No,No,No,5
+T101032,2025-03-03,Monday,South,Phone,Claim Status,Low,Agent_25,7.4,16.0,48,No,No,Yes,3
+T101033,2025-03-30,Sunday,East,Phone,Policy Change,High,Agent_05,15.0,8.5,8,Yes,No,Yes,3
+T101034,2025-03-28,Friday,East,Chat,Technical Issue,Critical,Agent_08,17.8,1.3,4,No,No,Yes,1
+T101035,2025-01-21,Tuesday,South,Phone,Refund Request,Medium,Agent_20,19.1,31.7,24,Yes,No,Yes,4
+T101036,2025-03-22,Saturday,North,Portal,Billing,Low,Agent_01,24.0,36.4,48,No,No,Yes,4
+T101037,2025-02-15,Saturday,East,Email,Technical Issue,Low,Agent_23,29.7,34.1,48,No,No,Yes,2
+T101038,2025-03-15,Saturday,East,Email,Technical Issue,Critical,Agent_08,30.8,3.0,4,No,No,Yes,1
+T101039,2025-01-20,Monday,South,Chat,Complaint,Medium,Agent_03,12.8,15.2,24,No,No,No,2
+T101040,2025-06-04,Wednesday,East,Email,Complaint,Low,Agent_08,36.3,48.9,48,Yes,No,Yes,4
+T101041,2025-02-18,Tuesday,East,Portal,Complaint,Low,Agent_17,21.1,50.5,48,Yes,No,Yes,1
+T101042,2025-04-17,Thursday,East,Phone,Billing,Medium,Agent_05,8.6,18.9,24,No,No,Yes,2
+T101043,2025-08-31,Sunday,West,Phone,Refund Request,Low,Agent_02,14.6,2.4,48,No,No,Yes,3
+T101044,2025-07-06,Sunday,East,Phone,Policy Change,Medium,Agent_11,33.5,2.7,24,No,No,Yes,5
+T101045,2025-08-21,Thursday,North,Phone,Billing,Low,Agent_18,16.4,40.5,48,No,No,Yes,3
+T101046,2025-01-15,Wednesday,West,Email,Billing,High,Agent_08,30.0,0.8,8,No,No,Yes,5
+T101047,2025-06-16,Monday,West,Phone,Refund Request,Low,Agent_11,15.5,14.7,48,No,No,No,2
+T101048,2025-02-26,Wednesday,East,Phone,Claim Status,Medium,Agent_24,29.8,19.4,24,No,No,No,2
+T101049,2025-04-13,Sunday,West,Portal,Billing,Medium,Agent_16,10.5,7.5,24,No,No,Yes,2
+T101050,2025-01-28,Tuesday,West,Phone,Complaint,Low,Agent_15,13.3,21.4,48,No,Yes,Yes,1
+T101051,2025-03-11,Tuesday,West,Chat,Refund Request,Critical,Agent_12,14.2,4.5,4,Yes,No,Yes,1
+T101052,2025-04-14,Monday,East,Phone,Refund Request,Low,Agent_19,16.4,79.8,48,Yes,Yes,Yes,1
+T101053,2025-02-26,Wednesday,West,Email,Claim Status,Medium,Agent_25,29.7,10.4,24,No,No,No,2
+T101054,2025-06-01,Sunday,South,Chat,Refund Request,High,Agent_20,17.9,5.4,8,No,No,Yes,5
+T101055,2025-04-28,Monday,North,Email,Complaint,High,Agent_16,33.2,0.5,8,No,No,No,5
+T101056,2025-04-21,Monday,West,Chat,Policy Change,High,Agent_01,9.7,14.6,8,Yes,Yes,Yes,1
+T101057,2025-05-07,Wednesday,South,Phone,Complaint,High,Agent_08,24.1,3.3,8,No,No,No,3
+T101058,2025-03-18,Tuesday,North,Email,Billing,Critical,Agent_02,26.1,1.9,4,No,No,Yes,3
+T101059,2025-09-16,Tuesday,North,Email,Technical Issue,High,Agent_16,29.3,0.5,8,No,No,Yes,3
+T101060,2025-02-20,Thursday,West,Email,Billing,High,Agent_18,23.8,5.8,8,No,No,Yes,2
+T101061,2025-07-28,Monday,South,Phone,Policy Change,Medium,Agent_08,21.0,0.8,24,No,Yes,No,5
+T101062,2025-01-09,Thursday,West,Chat,Claim Status,Medium,Agent_23,16.2,20.6,24,No,No,Yes,1
+T101063,2025-01-13,Monday,West,Email,Claim Status,Medium,Agent_23,29.5,11.1,24,No,No,Yes,1
+T101064,2025-07-09,Wednesday,West,Chat,Billing,Low,Agent_21,8.7,43.0,48,No,No,No,5
+T101065,2025-06-20,Friday,North,Phone,Policy Change,Critical,Agent_23,12.7,6.1,4,Yes,Yes,Yes,1
+T101066,2025-04-17,Thursday,North,Chat,Policy Change,Critical,Agent_24,19.3,3.5,4,No,No,Yes,4
+T101067,2025-09-21,Sunday,East,Portal,Billing,Medium,Agent_13,8.5,5.5,24,No,No,Yes,5
+T101068,2025-01-21,Tuesday,East,Email,Refund Request,High,Agent_18,33.5,8.7,8,Yes,No,Yes,4
+T101069,2025-04-15,Tuesday,South,Portal,Claim Status,Low,Agent_18,22.2,33.5,48,No,No,Yes,3
+T101070,2025-09-02,Tuesday,South,Chat,Claim Status,Medium,Agent_11,7.0,19.5,24,No,No,Yes,4
+T101071,2025-05-17,Saturday,West,Phone,Billing,Medium,Agent_12,11.9,17.2,24,No,Yes,No,3
+T101072,2025-09-14,Sunday,North,Email,Complaint,High,Agent_22,31.6,3.6,8,No,No,Yes,1
+T101073,2025-05-30,Friday,West,Chat,Refund Request,High,Agent_23,19.1,4.1,8,No,No,No,5
+T101074,2025-02-03,Monday,South,Portal,Technical Issue,Low,Agent_03,24.1,32.7,48,No,No,Yes,2
+T101075,2025-04-02,Wednesday,East,Portal,Billing,Low,Agent_04,6.7,28.0,48,No,No,Yes,2
+T101076,2025-02-27,Thursday,South,Email,Claim Status,Critical,Agent_17,28.8,3.6,4,No,No,Yes,1
+T101077,2025-01-12,Sunday,East,Email,Refund Request,Critical,Agent_18,26.1,2.7,4,No,No,Yes,1
+T101078,2025-08-31,Sunday,East,Email,Refund Request,Low,Agent_21,42.0,135.9,48,Yes,Yes,Yes,2
+T101079,2025-02-02,Sunday,North,Portal,Claim Status,Medium,Agent_17,22.6,21.6,24,No,No,Yes,4
+T101080,2025-07-30,Wednesday,East,Chat,Policy Change,Medium,Agent_16,12.6,27.1,24,Yes,No,Yes,4
+T101081,2025-08-16,Saturday,West,Phone,Claim Status,Low,Agent_10,14.7,9.8,48,No,No,Yes,1
+T101082,2025-05-14,Wednesday,South,Email,Policy Change,High,Agent_25,33.5,2.8,8,No,No,No,3
+T101083,2025-03-17,Monday,East,Phone,Claim Status,Critical,Agent_20,13.6,2.2,4,No,No,Yes,1
+T101084,2025-05-27,Tuesday,South,Portal,Refund Request,High,Agent_23,20.6,5.9,8,No,No,Yes,4
+T101085,2025-03-20,Thursday,South,Phone,Billing,Medium,Agent_11,17.3,9.4,24,No,No,No,1
+T101086,2025-08-14,Thursday,East,Email,Claim Status,High,Agent_18,26.6,12.9,8,Yes,No,Yes,4
+T101087,2025-06-12,Thursday,East,Phone,Technical Issue,Critical,Agent_18,27.0,6.6,4,Yes,Yes,No,2
+T101088,2025-06-04,Wednesday,North,Portal,Technical Issue,High,Agent_16,17.2,9.0,8,Yes,No,Yes,2
+T101089,2025-08-23,Saturday,East,Phone,Refund Request,Critical,Agent_18,11.6,5.6,4,Yes,No,Yes,4
+T101090,2025-06-19,Thursday,East,Email,Policy Change,Critical,Agent_25,35.1,4.9,4,Yes,Yes,Yes,1
+T101091,2025-03-17,Monday,West,Phone,Billing,Medium,Agent_24,8.6,8.7,24,No,No,No,5
+T101092,2025-01-21,Tuesday,South,Chat,Billing,Low,Agent_10,9.5,30.7,48,No,No,No,5
+T101093,2025-04-23,Wednesday,West,Email,Policy Change,Medium,Agent_02,28.0,13.9,24,No,No,Yes,1
+T101094,2025-04-10,Thursday,South,Chat,Policy Change,Low,Agent_07,13.0,29.0,48,No,No,Yes,4
+T101095,2025-08-17,Sunday,North,Portal,Technical Issue,Medium,Agent_07,17.1,13.9,24,No,No,No,1
+T101096,2025-09-19,Friday,North,Portal,Policy Change,Low,Agent_13,27.3,50.4,48,Yes,No,Yes,4
+T101097,2025-08-07,Thursday,East,Email,Billing,Medium,Agent_10,24.1,28.3,24,Yes,No,Yes,2
+T101098,2025-06-07,Saturday,West,Portal,Billing,High,Agent_07,21.5,3.3,8,No,No,Yes,3
+T101099,2025-08-16,Saturday,West,Chat,Policy Change,High,Agent_06,15.0,6.1,8,No,No,Yes,3
+T101100,2025-08-06,Wednesday,West,Phone,Complaint,Low,Agent_20,26.4,28.9,48,No,No,No,3
+T101101,2025-04-17,Thursday,East,Email,Complaint,Low,Agent_11,29.2,68.8,48,Yes,No,Yes,3
+T101102,2025-07-12,Saturday,North,Phone,Refund Request,Medium,Agent_09,15.3,21.5,24,No,No,Yes,4
+T101103,2025-08-25,Monday,South,Phone,Technical Issue,Medium,Agent_10,24.5,19.5,24,No,No,Yes,1
+T101104,2025-01-22,Wednesday,East,Chat,Policy Change,Medium,Agent_16,8.9,46.6,24,Yes,Yes,No,1
+T101105,2025-04-25,Friday,North,Chat,Claim Status,Medium,Agent_09,13.3,13.8,24,No,No,Yes,2
+T101106,2025-08-30,Saturday,North,Chat,Policy Change,Low,Agent_14,19.2,49.9,48,Yes,No,No,1
+T101107,2025-05-06,Tuesday,North,Phone,Policy Change,Critical,Agent_16,21.4,1.9,4,No,No,Yes,5
+T101108,2025-02-04,Tuesday,East,Chat,Complaint,High,Agent_14,15.3,5.3,8,No,No,No,5
+T101109,2025-09-01,Monday,North,Email,Refund Request,Low,Agent_19,30.2,39.2,48,No,Yes,No,4
+T101110,2025-03-25,Tuesday,North,Phone,Technical Issue,Low,Agent_23,12.7,58.8,48,Yes,No,Yes,1
+T101111,2025-03-25,Tuesday,North,Phone,Technical Issue,High,Agent_21,18.0,3.3,8,No,No,No,2
+T101112,2025-07-02,Wednesday,North,Phone,Complaint,Critical,Agent_21,25.2,5.4,4,Yes,No,Yes,4
+T101113,2025-09-21,Sunday,South,Chat,Claim Status,Low,Agent_25,16.4,23.6,48,No,No,Yes,4
+T101114,2025-03-27,Thursday,East,Portal,Refund Request,Low,Agent_10,23.5,75.0,48,Yes,No,Yes,1
+T101115,2025-07-05,Saturday,North,Email,Policy Change,Low,Agent_05,30.6,48.2,48,Yes,No,Yes,1
+T101116,2025-09-23,Tuesday,East,Email,Technical Issue,Medium,Agent_14,31.4,5.7,24,No,No,No,2
+T101117,2025-03-25,Tuesday,North,Phone,Complaint,High,Agent_08,20.5,4.2,8,No,Yes,No,1
+T101118,2025-09-27,Saturday,North,Email,Billing,High,Agent_04,22.2,11.0,8,Yes,No,No,2
+T101119,2025-01-09,Thursday,West,Phone,Refund Request,Low,Agent_12,21.1,15.1,48,No,No,Yes,5
+T101120,2025-08-15,Friday,East,Phone,Policy Change,High,Agent_01,12.1,3.1,8,No,No,Yes,4
+T101121,2025-03-02,Sunday,South,Phone,Refund Request,Medium,Agent_05,19.0,42.5,24,Yes,Yes,Yes,1
+T101122,2025-03-06,Thursday,South,Phone,Billing,Medium,Agent_14,11.6,19.1,24,No,No,Yes,3
+T101123,2025-02-27,Thursday,North,Phone,Technical Issue,Medium,Agent_25,21.5,16.3,24,No,No,No,1
+T101124,2025-04-11,Friday,North,Phone,Refund Request,Medium,Agent_17,18.6,8.3,24,No,No,Yes,5
+T101125,2025-08-29,Friday,North,Portal,Billing,Medium,Agent_03,13.0,28.7,24,Yes,No,Yes,3
+T101126,2025-01-06,Monday,North,Chat,Complaint,Medium,Agent_07,23.8,16.4,24,No,No,Yes,4
+T101127,2025-04-13,Sunday,South,Chat,Billing,Low,Agent_03,12.0,23.1,48,No,No,Yes,5
+T101128,2025-05-23,Friday,East,Email,Complaint,High,Agent_25,35.4,8.8,8,Yes,Yes,Yes,1
+T101129,2025-09-16,Tuesday,North,Phone,Complaint,Low,Agent_25,18.6,4.2,48,No,No,Yes,3
+T101130,2025-04-22,Tuesday,South,Portal,Claim Status,Medium,Agent_25,22.6,17.9,24,No,No,No,5
+T101131,2025-02-20,Thursday,South,Portal,Refund Request,Medium,Agent_16,24.3,22.3,24,No,No,Yes,1
+T101132,2025-04-05,Saturday,West,Chat,Billing,High,Agent_06,8.6,10.7,8,Yes,No,Yes,2
+T101133,2025-07-14,Monday,West,Phone,Claim Status,Low,Agent_14,14.2,42.2,48,No,No,Yes,3
+T101134,2025-06-10,Tuesday,North,Email,Complaint,Medium,Agent_05,31.0,17.1,24,No,No,Yes,3
+T101135,2025-07-04,Friday,East,Chat,Billing,Medium,Agent_03,12.1,18.5,24,No,No,Yes,1
+T101136,2025-03-01,Saturday,West,Phone,Complaint,Medium,Agent_24,22.7,6.4,24,No,No,Yes,4
+T101137,2025-08-16,Saturday,South,Chat,Policy Change,Low,Agent_14,14.4,35.1,48,No,No,Yes,2
+T101138,2025-02-05,Wednesday,West,Portal,Policy Change,Low,Agent_06,13.5,58.2,48,Yes,No,Yes,4
+T101139,2025-09-09,Tuesday,North,Email,Complaint,Medium,Agent_22,38.9,7.5,24,No,No,Yes,4
+T101140,2025-03-03,Monday,South,Email,Refund Request,Critical,Agent_19,25.0,5.1,4,Yes,Yes,Yes,1
+T101141,2025-03-28,Friday,North,Email,Claim Status,Low,Agent_11,34.8,30.7,48,No,No,Yes,5
+T101142,2025-07-26,Saturday,North,Phone,Technical Issue,Medium,Agent_24,20.1,23.9,24,No,No,Yes,4
+T101143,2025-05-20,Tuesday,West,Email,Refund Request,Critical,Agent_20,36.7,5.5,4,Yes,Yes,No,1
+T101144,2025-09-19,Friday,East,Phone,Technical Issue,Low,Agent_04,18.3,56.0,48,Yes,No,Yes,1
+T101145,2025-09-08,Monday,West,Phone,Claim Status,Low,Agent_01,19.2,79.5,48,Yes,No,No,4
+T101146,2025-01-28,Tuesday,North,Email,Billing,Medium,Agent_06,26.1,13.8,24,No,No,Yes,1
+T101147,2025-06-17,Tuesday,South,Phone,Complaint,High,Agent_04,21.7,5.2,8,No,No,Yes,4
+T101148,2025-09-24,Wednesday,West,Chat,Claim Status,Medium,Agent_10,18.2,5.2,24,No,No,Yes,1
+T101149,2025-09-09,Tuesday,East,Email,Complaint,Low,Agent_18,26.0,33.2,48,No,No,Yes,5
+T101150,2025-01-17,Friday,West,Portal,Billing,Medium,Agent_13,14.7,13.6,24,No,No,Yes,1
+T101151,2025-07-12,Saturday,West,Email,Billing,Medium,Agent_06,19.7,39.6,24,Yes,No,Yes,1
+T101152,2025-06-05,Thursday,South,Email,Claim Status,High,Agent_10,22.5,4.6,8,No,No,Yes,4
+T101153,2025-09-07,Sunday,North,Chat,Technical Issue,Medium,Agent_22,20.4,14.9,24,No,No,Yes,2
+T101154,2025-08-29,Friday,West,Chat,Claim Status,Low,Agent_17,2.0,40.7,48,No,Yes,No,2
+T101155,2025-09-11,Thursday,West,Chat,Policy Change,Critical,Agent_25,13.9,2.5,4,No,No,No,1
+T101156,2025-06-14,Saturday,North,Phone,Billing,High,Agent_05,12.3,10.4,8,Yes,No,Yes,2
+T101157,2025-06-28,Saturday,North,Chat,Refund Request,Medium,Agent_11,20.8,10.5,24,No,No,Yes,2
+T101158,2025-08-08,Friday,East,Portal,Technical Issue,Low,Agent_12,30.5,58.9,48,Yes,No,Yes,2
+T101159,2025-05-06,Tuesday,South,Phone,Policy Change,Low,Agent_19,17.2,60.5,48,Yes,No,Yes,4
+T101160,2025-02-03,Monday,East,Phone,Claim Status,Medium,Agent_01,17.6,19.5,24,No,Yes,Yes,2
+T101161,2025-08-24,Sunday,West,Chat,Technical Issue,Low,Agent_09,19.7,36.5,48,No,No,Yes,5
+T101162,2025-08-29,Friday,North,Portal,Technical Issue,Medium,Agent_19,23.2,34.0,24,Yes,No,Yes,1
+T101163,2025-02-20,Thursday,West,Phone,Refund Request,Medium,Agent_07,13.6,20.8,24,No,No,Yes,4
+T101164,2025-09-15,Monday,East,Phone,Policy Change,Critical,Agent_12,10.9,2.4,4,No,No,Yes,2
+T101165,2025-04-14,Monday,West,Chat,Billing,Low,Agent_18,9.7,37.7,48,No,Yes,No,1
+T101166,2025-01-25,Saturday,East,Portal,Technical Issue,Medium,Agent_08,23.9,26.3,24,Yes,No,No,4
+T101167,2025-02-17,Monday,North,Chat,Policy Change,Medium,Agent_03,13.4,14.5,24,No,No,Yes,1
+T101168,2025-09-01,Monday,West,Phone,Billing,High,Agent_21,10.9,7.0,8,No,Yes,Yes,1
+T101169,2025-06-03,Tuesday,West,Chat,Policy Change,Medium,Agent_07,10.2,20.3,24,No,No,Yes,3
+T101170,2025-05-09,Friday,West,Chat,Complaint,High,Agent_06,20.0,4.2,8,No,No,No,2
+T101171,2025-09-22,Monday,South,Chat,Claim Status,Critical,Agent_22,8.9,1.4,4,No,Yes,Yes,1
+T101172,2025-08-28,Thursday,East,Portal,Complaint,High,Agent_20,26.7,7.8,8,No,No,No,1
+T101173,2025-08-11,Monday,North,Email,Policy Change,Low,Agent_15,28.8,40.9,48,No,No,Yes,1
+T101174,2025-03-19,Wednesday,East,Chat,Technical Issue,High,Agent_11,14.0,9.5,8,Yes,No,No,3
+T101175,2025-02-02,Sunday,South,Chat,Policy Change,Medium,Agent_10,15.2,0.5,24,No,No,Yes,4
+T101176,2025-05-12,Monday,South,Email,Billing,Low,Agent_05,22.9,11.9,48,No,No,Yes,3
+T101177,2025-05-06,Tuesday,East,Email,Complaint,Medium,Agent_14,25.8,3.8,24,No,No,Yes,2
+T101178,2025-01-19,Sunday,South,Phone,Claim Status,Low,Agent_01,24.3,39.5,48,No,No,Yes,5
+T101179,2025-05-23,Friday,South,Chat,Billing,Medium,Agent_24,12.3,40.4,24,Yes,Yes,Yes,2
+T101180,2025-01-29,Wednesday,North,Phone,Policy Change,High,Agent_03,17.7,4.8,8,No,No,Yes,5
+T101181,2025-07-28,Monday,East,Chat,Billing,Critical,Agent_13,8.6,7.1,4,Yes,Yes,Yes,1
+T101182,2025-03-13,Thursday,South,Phone,Refund Request,Critical,Agent_17,17.0,4.8,4,Yes,No,Yes,3
+T101183,2025-09-25,Thursday,East,Email,Billing,Medium,Agent_08,18.0,29.1,24,Yes,No,Yes,1
+T101184,2025-06-10,Tuesday,East,Chat,Refund Request,High,Agent_13,16.9,9.8,8,Yes,No,No,4
+T101185,2025-05-01,Thursday,West,Phone,Billing,Low,Agent_06,19.6,40.6,48,No,No,Yes,5
+T101186,2025-05-21,Wednesday,West,Email,Complaint,Medium,Agent_02,35.4,12.4,24,No,Yes,No,2
+T101187,2025-02-27,Thursday,East,Email,Technical Issue,Low,Agent_22,38.1,10.4,48,No,No,Yes,3
+T101188,2025-05-23,Friday,South,Email,Refund Request,High,Agent_12,24.7,6.9,8,No,No,Yes,4
+T101189,2025-01-11,Saturday,North,Chat,Refund Request,Medium,Agent_02,16.2,0.5,24,No,No,Yes,4
+T101190,2025-05-03,Saturday,East,Chat,Policy Change,Critical,Agent_21,10.4,7.4,4,Yes,Yes,Yes,3
+T101191,2025-03-04,Tuesday,South,Portal,Technical Issue,High,Agent_01,32.3,13.9,8,Yes,Yes,No,1
+T101192,2025-05-11,Sunday,East,Phone,Claim Status,Low,Agent_10,12.8,29.5,48,No,No,Yes,1
+T101193,2025-03-24,Monday,West,Chat,Refund Request,High,Agent_14,13.4,7.4,8,No,No,Yes,1
+T101194,2025-05-21,Wednesday,North,Chat,Technical Issue,High,Agent_16,16.7,6.4,8,No,No,Yes,1
+T101195,2025-06-20,Friday,West,Portal,Billing,Medium,Agent_06,14.1,3.7,24,No,No,Yes,5
+T101196,2025-09-17,Wednesday,North,Email,Complaint,High,Agent_24,40.6,10.2,8,Yes,No,No,4
+T101197,2025-06-17,Tuesday,West,Chat,Billing,Medium,Agent_21,9.3,19.5,24,No,No,Yes,4
+T101198,2025-08-16,Saturday,South,Phone,Claim Status,Medium,Agent_21,14.6,31.1,24,Yes,No,No,1
+T101199,2025-02-12,Wednesday,North,Phone,Complaint,Critical,Agent_23,22.8,5.5,4,Yes,Yes,No,1
+T101200,2025-03-08,Saturday,West,Chat,Policy Change,Medium,Agent_15,25.9,23.5,24,No,No,Yes,1
